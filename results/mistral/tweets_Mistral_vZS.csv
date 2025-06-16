@@ -1,0 +1,601 @@
+status,statement,predicted_class,correct,probability
+Anxiety,"""My heart races, my mind is a whirlwind of thoughts, and I feel like I can't breathe. Anxiety has gripped me in its icy claws."" #Anxiety #MentalHealthAware",Suicidal,0,0.15854935
+Anxiety,"My mind is a chaotic whirlwind of thoughts and fears, leaving me paralyzed with fear and dread. Anxiety has taken over my life. #anxiety #mentalhealth",Suicidal,0,0.077096544
+Anxiety,"My heart is pounding like a wild beast, my thoughts are racing, and I feel like I'm drowning in a sea of uncertainty. Anxiety has taken over.",Normal,0,0.34119883
+Anxiety,"""Heart racing, mind churning, thoughts spiraling out of control. Anxiety has taken hold and it's a struggle to breathe.""",Normal,0,0.014137359
+Anxiety,"""Heart racing, mind spinning, thoughts spiraling. Every breath feels like a chore. Anxiety grips me like a vice, suffocating me. Help.""",Normal,0,0.08055752
+Anxiety,"My heart races, my mind is a whirlwind of thoughts and I'm consumed by fear. Anxiety has taken over my life. #anxiety #mentalhealthawareness",Suicidal,0,0.118040785
+Anxiety,"""Heart racing, hands trembling, mind ablaze with thoughts that won't stop. Anxiety's grip is tight, and I can't breathe.""",Normal,0,0.03416722
+Anxiety,"""Heart racing, mind buzzing, palms sweating - Anxiety takes hold, consuming every thought, leaving no peace in its wake.""",Normal,0,0.008654178
+Anxiety,"""Heart races, palms sweat, mind races with worst-case scenarios. Anxiety has taken over, leaving a feeling of helplessness and fear.""",Normal,0,0.056110382
+Anxiety,"""Heart racing, mind buzzing, thoughts tangled, hands shaking. Anxiety has taken control.""",Normal,0,0.0078027514
+Anxiety,"""My heart races, my mind races, my hands shake. I feel like I'm drowning in a sea of fear and uncertainty. Anxiety has taken over my life.""",Normal,0,0.05674789
+Anxiety,"""My mind is a chaotic storm, thoughts swirling like leaves in a hurricane, I'm trapped in an endless cycle of worry and fear.""",Normal,0,0.011785776
+Anxiety,"""Heart races, hands shake, mind spirals. Anxiety grips like a vice, suffocating thoughts and actions. Every breath is a struggle, every moment a battle.""",Normal,0,0.17416489
+Anxiety,"""Heart racing, mind buzzing, thoughts spiraling out of control. Anxiety grips me like a vice, leaving me paralyzed with fear."" #anxiety #mentalhealthawareness",Anxiety,1,0.392291
+Anxiety,"""My mind is a stormy sea, with waves of fear and doubt crashing against my thoughts. I can't escape the anxiety that clings to me like a heavy shroud.""",Normal,0,0.012072762
+Anxiety,"""Heart racing, hands shaking, mind racing, thoughts invading. Anxiety's grip is tightening, suffocating me, leaving me breathless.""",Normal,0,0.018085076
+Anxiety,"""My heart races, my mind won't quiet, each breath feels like a chore. Anxiety grips me tighter with every passing second.""",Normal,0,0.054476824
+Anxiety,"""My mind is a chaotic whirlwind, racing thoughts and an ever-present sense of dread. I can't shake this feeling of unease."" #anxiety #mentalhealthawareness",Anxiety,1,0.4385487
+Anxiety,"""Heart racing, hands shaking, mind spinning. Every thought is a worst-case scenario. Anxiety has taken control.""",Normal,0,0.07176846
+Anxiety,"""My heart races, palms sweat, and mind races with worst-case scenarios. I can't shake this feeling of unease."" #Anxiety #MentalHealthAwareness",Normal,0,0.29600894
+Anxiety,"""My heart races, palms sweat, thoughts swirl in my head like a hurricane. Anxiety has taken over, leaving me feeling suffocated and helpless.""",Normal,0,0.007315559
+Anxiety,"""My mind is a ticking time bomb, every thought a potential explosion of fear and worry. Anxiety consumes me, leaving me a shell of my former self. #anxiety #mentalhealthawareness""",Normal,0,0.09276535
+Anxiety,"""My mind is a storm, thoughts racing like lightning bolts, my heart a prisoner in my chest. Anxiety has me in its grip.""",Normal,0,0.0059858095
+Anxiety,"""My heart races, my hands shake, and my thoughts spiral out of control. Anxiety has me in its grip and I can't break free."" #anxiety #mentalhealthawareness",Suicidal,0,0.2374208
+Anxiety,"""Heart races, palms sweat, mind races with worst-case scenarios. Anxiety grips like a vice, suffocating the peace and joy of the moment. #Anxiety #MentalHealth #Emotional",Suicidal,0,0.09393712
+Anxiety,"""My mind is a stormy sea, thoughts racing like waves, fear gripping my heart, anxiety taking control.""",Normal,0,0.0051273378
+Anxiety,"""My heart races, hands shake, and mind is a whirlwind as I cling to the hope that everything will be okay. Anxiety is a relentless beast that never leaves my side.""",Normal,0,0.020782169
+Anxiety,"""Heart racing, palms sweaty, mind racing. Anxiety grips me, leaving me paralyzed with fear. Can't shake the feeling of dread.""",Normal,0,0.0045890026
+Anxiety,"""My mind is a chaotic storm, a whirlwind of worry and doubt. I can't shake the feeling that something terrible is just around the corner.""",Normal,0,0.02122935
+Anxiety,"""Heart racing, palms sweaty, mind buzzing with thoughts. Anxiety takes control, leaving me a prisoner in my own skin.""",Normal,0,0.0036166355
+Anxiety,"""Heart racing, palms sweating, mind racing. Anxiety's grip is tightening around me. I can't breathe. This is not me.""",Normal,0,0.14279912
+Anxiety,"""My heart races, palms sweat, and mind races as I struggle to breathe. Anxiety has me in its grip and I can't break free.""",Normal,0,0.014356501
+Anxiety,"""Heart races, palms sweat, mind races with worst-case scenarios. Anxiety takes over, leaving fear and uncertainty in its wake."" #anxiety #mentalhealthawareness",Anxiety,1,0.2720916
+Anxiety,"""My heart races, my palms sweat, and my mind spins as I try to face the fear that grips me. Anxiety is a relentless beast."" #AnxietyAwareness",Anxiety,1,0.3609748
+Anxiety,"""Heart races, palms sweat, mind races with worst-case scenarios. Anxiety grips like a vice, leaving no peace or calm. #anxiety #mentalhealthawareness""",Suicidal,0,0.3095843
+Anxiety,"My heart races, palms sweat, and mind races with thoughts. I can't shake this feeling of fear and uncertainty. #anxiety #mentalhealthawareness",Suicidal,0,0.13779418
+Anxiety,"""My heart races, palms sweat, and mind races with thoughts I can't shake. Anxiety has me in its grip and I can't escape.""",Normal,0,0.013335406
+Anxiety,"""My heart races, my palms sweat, and my mind spirals in endless worry. Anxiety consumes me, leaving me a prisoner of my own thoughts.""",Normal,0,0.024563005
+Anxiety,"""My heart races, palms sweat, and mind races with thoughts I can't control. Anxiety has me in its grip.""",Normal,0,0.02853989
+Anxiety,"""Heart racing, palms sweaty, mind spinning. Anxiety grips me like a vice, a constant fear that I can't escape. But I won't let it win. #anxietyawareness #",Suicidal,0,0.2607659
+Anxiety,"""My heart races, palms sweat, and mind races with thoughts I can't shake. Anxiety grips me like a vice, leaving me feeling helpless and afraid.""",Normal,0,0.028027497
+Anxiety,"""Heart races, mind races, hands shake, and thoughts swirl as anxiety consumes me, leaving me paralyzed with fear and uncertainty.""",Normal,0,0.09084233
+Anxiety,"""Heart races, palms sweat, mind spirals. Anxiety consumes, leaving a void where peace once resided.""",Normal,0,0.05572197
+Anxiety,"""Heart racing, palms sweaty, mind racing. Anxiety has taken over, making every breath feel like a chore. Just another day.""",Normal,0,0.0045010974
+Anxiety,"""Heart races, mind whirls, hands shake. Anxiety's grip is tight. Every breath feels like a chore. But hope remains. Tomorrow's a new day.""",Normal,0,0.13225529
+Anxiety,"""Heart racing, mind buzzing, thoughts spiraling out of control. Anxiety takes hold and everything feels overwhelming. But I'll keep fighting, one breath at a time."" #anxiety #mentalhealthawareness",Normal,0,0.25392598
+Anxiety,"""My heart races with every breath, thoughts swirl like a hurricane, and fear grips me tight. Anxiety has me in its icy grip."" #Anxiety #MentalHealthAwareness",Suicidal,0,0.29139394
+Anxiety,"""Heart racing, hands shaking, mind racing, thoughts spiraling out of control. Anxiety has me in its grip and I can't break free.""",Normal,0,0.025437813
+Anxiety,"""Heart races, palms sweat, mind whirls. Anxiety grips like a vice. Every breath, every thought a struggle. But hope remains, just beyond reach."" #anxiety #mentalhealthawareness",Suicidal,0,0.10228794
+Anxiety,"""Heart racing, palms sweaty, mind a whirlwind. Anxiety has me in its grip, suffocating me with every breath."" #anxiety #mentalhealthawareness",Normal,0,0.19340211
+Anxiety,"""My heart races, palms sweat, and mind races with thoughts. Anxiety has me in its grip and I can't escape. #Anxiety #MentalHealthAwareness""",Normal,0,0.075685516
+Anxiety,"""My mind is a chaotic whirlwind, thoughts racing like a car crash, fear gripping my heart, I'm drowning in a sea of anxiety."" #mentalhealthawareness #anxiety #depression",Depression,0,0.13531144
+Anxiety,"""Heart racing, palms sweating, mind racing with thoughts. Anxiety grips me like a vice, making every breath feel heavy and every step uncertain.""",Normal,0,0.1055215
+Anxiety,"""Heart races, palms sweat, mind spirals out of control. Anxiety takes hold, a relentless grip on my thoughts and emotions."" #mentalhealthawareness",Suicidal,0,0.3348159
+Anxiety,"""Heart racing, mind buzzing, hands trembling. Anxiety's grip is tightening around me like a vice. I can't breathe, I can't focus. It's suffocating.""",Normal,0,0.035116214
+Anxiety,"""Heart races, palms sweat, mind spirals out of control. Anxiety has gripped me, and I can't seem to shake it off.""",Normal,0,0.00771092
+Anxiety,"""Heart races, palms sweat, thoughts swirl in my head like a tornado. Anxiety has me gripped in its icy claws."" #mentalhealthawareness",Suicidal,0,0.2859311
+Anxiety,"""My heart races, my palms sweat, and my mind races with thoughts I can't control. Anxiety has taken over my life."" #anxiety #mentalhealthawareness",Suicidal,0,0.1990355
+Anxiety,"""Heart races, palms sweat, mind spirals. Anxiety takes control, leaving a suffocating grip on reality. #anxietyawareness""",Anxiety,1,0.6864356
+Anxiety,"""Heart racing, hands trembling, thoughts spiraling out of control. Anxiety consumes me, a constant fear gripping my every moment."" #anxiety #mentalhealthawareness",Suicidal,0,0.26044556
+Anxiety,"""Heart races, hands shake, mind whirls. Anxiety takes hold, a storm inside, a constant fear that something bad will happen. It's exhausting and overwhelming.""",Depression,0,0.20537274
+Anxiety,"""Heart racing, palms sweaty, mind racing with worst-case scenarios. Anxiety's grip is tightening. Breathe in, hold, release. Repeat.""",Normal,0,0.28015688
+Anxiety,"""My heart races, palms sweat, and thoughts spiral out of control as anxiety grips me in its icy claws. Each breath feels like a struggle, but I know I must persevere.""",Normal,0,0.027526943
+Anxiety,"""Heart races, palms sweat, mind races, thoughts swarm - Anxiety takes hold and everything feels unreal.""",Normal,0,0.03724806
+Anxiety,"""Heart races, palms sweat, mind races, thoughts swirl, fear grips, panic sets in. Anxiety takes over, controlling every breath and action."" #anxiety #mentalhealthawareness",Suicidal,0,0.13962519
+Anxiety,"""Heart racing, hands shaking, mind racing. Anxiety grips me like a vice, suffocating my every thought. It's a constant battle, but I won't give in."" #anxiety #ment",Anxiety,1,0.37718737
+Anxiety,"""Heart racing, mind spinning, thoughts overwhelming - anxiety takes hold and leaves me feeling trapped in my own mind.""",Normal,0,0.01875959
+Anxiety,"""Heart races, palms sweat, mind races with worst-case scenarios. Anxiety grips like a vice, leaving only fear and dread in its wake.""",Normal,0,0.04328727
+Anxiety,"""Heart racing, mind spiraling, thoughts invading, hands shaking, fear gripping - Anxiety's hold is unrelenting.""",Normal,0,0.03643171
+Anxiety,"My mind races, my heart pounds, I can't breathe. Anxiety has me in its grip and I can't escape.",Normal,0,0.21630052
+Anxiety,"""My heart races, hands shake, and mind races with thoughts I can't control. Anxiety has taken over my life.""",Normal,0,0.0865616
+Anxiety,"""My heart races, palms sweat, and mind races as I worry about the future. Anxiety has taken over my life.""",Normal,0,0.033925585
+Anxiety,"""Heart races, mind whirls, palms sweat. Anxiety grips me like a vice, suffocating my peace and calm."" #Anxiety #MentalHealthAwareness",Anxiety,1,0.34827146
+Anxiety,"My heart races, thoughts swirl like a tornado, I'm a prisoner in my own mind. Anxiety consumes me.",Normal,0,0.21739124
+Anxiety,"""Heart races, palms sweat, mind whirls - Anxiety's grip is tight, but I'm fighting to break free.""",Normal,0,0.008683905
+Anxiety,"""Heart racing, palms sweating, thoughts spiraling. Anxiety has taken hold and it's a relentless battle to keep calm.""",Normal,0,0.007968879
+Anxiety,"""My mind is a stormy sea, waves of worry crash against my thoughts, drowning out peace and tranquility. Anxiety takes hold, leaving me feeling lost and alone."" #anxiety #mentalhealthawareness",Suicidal,0,0.29715255
+Anxiety,"My heart races, palms sweat, mind races. Anxiety has me in a vice, I can't breathe. I'm trapped in a storm I can't weather.",Normal,0,0.26995495
+Anxiety,"My mind is a chaotic storm, thoughts racing like lightning bolts, leaving me paralyzed in fear and doubt. #anxiety",Normal,0,0.06518372
+Anxiety,"""My mind races, my heart pounds, I can't breathe. Anxiety consumes me, a never-ending cycle of fear and uncertainty."" #anxiety #mentalhealthawareness",Suicidal,0,0.18775529
+Anxiety,"""Heart races, palms sweat, thoughts swirl, hands shake. Anxiety grips tight, suffocating like a vice. Can't breathe, can't escape. Fear consumes, controls."" #an",Normal,0,0.11730223
+Anxiety,"""Heart racing, hands shaking, mind buzzing with worry. Anxiety has me in its grip."" #mentalhealth #anxiety",Anxiety,1,0.49131244
+Anxiety,"""Heart races, mind races, thoughts jumble. Anxiety's grip is suffocating. Breathing becomes shallow, fear takes hold. Every moment feels like a battle for control."" #Anxiety #Mental",Suicidal,0,0.34393102
+Anxiety,"""Heart racing, palms sweaty, mind racing, thoughts overwhelming. Anxiety has taken hold.""",Normal,0,0.0094557265
+Anxiety,"My mind is a storm, thoughts racing, heart pounding. Every breath feels like a struggle. Anxiety grips me tight, won't let go. #anxiety #mentalhealth",Suicidal,0,0.093521126
+Anxiety,"""Heart races, hands shake, mind races with worst-case scenarios. Anxiety's grip is tight, suffocating the peace and calm within. #anxiety #mentalhealthawareness""",Anxiety,1,0.3687195
+Anxiety,"""Heart racing, hands trembling, thoughts spiraling out of control. Anxiety takes over, leaving me feeling helpless and alone.""",Normal,0,0.010020904
+Anxiety,"""My heart races, palms sweat, and mind races with worst-case scenarios. Anxiety has taken over, leaving me a prisoner of my own thoughts.""",Normal,0,0.029197443
+Anxiety,"""Heart racing, palms sweating, mind racing with worst-case scenarios. Anxiety has me in its grip and I can't shake it off.""",Normal,0,0.018355373
+Anxiety,"""My mind is a storm, turbulent thoughts and relentless worry. Anxiety grips me like a vice, suffocating my peace and happiness. #anxiety #mentalhealthawareness""",Normal,0,0.06503581
+Anxiety,"""Heart racing, mind reeling, thoughts scattered like leaves in the wind. Anxiety has me in its grip, a relentless beast that won't let go."" #anxiety #mentalhealth",Suicidal,0,0.10443647
+Anxiety,"""Heart racing, mind spinning, thoughts overwhelming - anxiety consumes me, leaving me a prisoner in my own mind.""",Normal,0,0.05546436
+Anxiety,"""My heart races, my palms sweat, and my thoughts spiral as I try to face the unknown. Anxiety grips me, leaving me feeling trapped and helpless.""",Normal,0,0.054541375
+Anxiety,"""My heart races, palms sweat, mind races with worst-case scenarios. Anxiety has taken over my thoughts and I can't shake it off."" #Anxiety #MentalHealth",Suicidal,0,0.265146
+Anxiety,"""Heart racing, hands trembling, mind racing. Every breath is a struggle. Anxiety consumes me, leaving me a shell of my former self. #Anxiety #MentalHealthAwareness""",Anxiety,1,0.55823505
+Anxiety,"""My heart races, my palms sweat, and my thoughts swirl like a storm as anxiety grips me tighter with every passing moment. #anxiety #mentalhealthawareness""",Suicidal,0,0.12587593
+Anxiety,"""My heart races, palms sweat, mind races with worst-case scenarios. Anxiety has me trapped in a constant state of fear and uncertainty."" #Anxiety #MentalHealth",Anxiety,1,0.4831475
+Anxiety,"""Heart racing, palms sweaty, mind racing. Every breath feels like a chore. Anxiety takes hold and won't let go.""",Normal,0,0.011555941
+Anxiety,"""Heart races, palms sweat, thoughts swirl like a hurricane in my head. Anxiety has taken control.""",Normal,0,0.008714229
+Anxiety,"""Heart racing, palms sweating, mind racing. Every breath feels like a chore. Anxiety has taken over."" #anxiety #mentalhealthawareness",Normal,0,0.30407527
+Bi-polar,"""Today, I feel like I'm riding a rollercoaster of emotions. One moment I'm high, the next I'm low. It's like living in a constant state of flux.""",Normal,0,0.024286916
+Bi-polar,"""Exhaustion, frustration, despair, and euphoria. A rollercoaster of emotions, a chaotic mind, a soul trapped in turmoil."" #BiPolar",Normal,0,0.01728446
+Bi-polar,"""Mood swings like a pendulum, one moment elated, the next depressed. Bi-polar disorder is a constant battle between light and dark.""",Normal,0,0.011688359
+Bi-polar,"""Sometimes, I feel like a roller coaster- highs that make me feel invincible, followed by lows that leave me broken. #BiPolar #MentalHealthAwareness""",Normal,0,0.15190047
+Bi-polar,"""My moods are like a rollercoaster, soaring high one moment, crashing low the next. It's a constant battle to find balance in this chaotic world."" #BiPolar #MentalHealthAwareness",Depression,0,0.07223242
+Bi-polar,"""Mood swings like a pendulum, highs so high they make you feel invincible, lows so low they make you question your worth. Bi-polar is a rollercoaster of emotions."" #Bi",Normal,0,0.0027031049
+Bi-polar,"""My mind is a stormy sea, some days I'm a hurricane, other days I'm a calm sea. Loving the chaos, but can't find my anchor. #BiPolar #MentalHealthA",Suicidal,0,0.024231158
+Bi-polar,"""One moment I'm on top of the world, the next I'm drowning in the depths of despair. My moods are like a roller coaster, and I can't seem to find a steady ground.""",Normal,0,0.005857039
+Bi-polar,"""My mind is a chaotic sea, one moment I'm floating on calm waves of happiness, the next I'm drowning in the stormy depths of despair."" #BiPolar",Normal,0,0.0035545619
+Bi-polar,"""Mood swings like seasons, dark clouds of depression and manic highs, a constant battle within. Bi-polar is a stormy journey, but I'm not alone."" #mentalhealthawareness #bipolar",Depression,0,0.24211098
+Bi-polar,"""Suddenly overwhelmed by a wave of intense sadness, followed by a sudden burst of manic energy. Bi-polar is a never-ending battle between darkness and light.""",Normal,0,0.007819157
+Bi-polar,"""Exhausted, irritable, and numb. Emotions are like a rollercoaster. Thoughts are racing. Breathe. Sleep. Repeat. Bi-polar. #mentalhealthawareness""",Normal,0,0.14229804
+Bi-polar,"""Mood swings like a pendulum, one moment I'm up, the next I'm down. Emotions are intense and unpredictable, it's a never-ending battle. #biopolar #",Suicidal,0,0.025355833
+Bi-polar,"""Intense highs and lows, an emotional rollercoaster. Bi-polar. #mentalhealthawareness #bipolar #emotional #tone #realistic #evocative""",Depression,0,0.20392802
+Bi-polar,"""Living with Bi-polar is like having a storm inside you, some days you're calm and others you're raging, but it's always there, churning away.""",Normal,0,0.0011690207
+Bi-polar,"""My mind is a chaotic storm, one moment I'm elated, the next consumed by darkness. Bi-polar. #mentalhealthawareness""",Normal,0,0.10562498
+Bi-polar,"""My moods are like the tides, sometimes high and exhilarating, other times low and crushing. Bi-polar is a storm inside my mind.""",Normal,0,0.0007753354
+Bi-polar,"""My mind is a stormy sea, tossing between light and dark, hope and despair, love and anger. Bi-polar keeps me on a constant edge, never knowing which emotion will take the wheel next.""",Normal,0,0.0011852729
+Bi-polar,"""Sometimes the highs are so high, you feel like you can conquer the world. But the lows are so low, you feel like you don't want to leave your bed.""",Normal,0,0.008244698
+Bi-polar,"""Tears streaming down my face, mania raging inside my head. Emptiness consumes me. Bi-polar disorder wins again.""",Normal,0,0.0011780238
+Bi-polar,"""Waves of elation and despair crash over me like waves on a shore, leaving me lost and alone in the chaos of my own thoughts.""",Normal,0,0.0052647335
+Bi-polar,"""I'm a storm in a teacup, one moment I'm bubbling with happiness the next I'm crashing with sadness. Living with bi-polar is like being on an emotional rollercoaster.""",Normal,0,0.0018085677
+Bi-polar,"""My mind is a roller coaster, one moment I'm soaring high, the next I'm plummeting deep. The highs are exhilarating but the lows are crushing. #BiPolar #M",Normal,0,0.008372718
+Bi-polar,"""My moods are like the weather - one moment sunny, the next stormy. Living with bi-polar is a constant battle, but I'm fighting."" #mentalhealthawareness",Normal,0,0.19977781
+Bi-polar,"""I'm a rollercoaster of emotions, one moment I'm soaring, the next I'm crashing. My mind is a chaotic storm, a never-ending battle between light and dark.""",Normal,0,0.0063197343
+Bi-polar,"""My mind is a rollercoaster, plummeting lows to dizzying highs. It's an endless battle between hope and despair, but I keep fighting."" #BiPolarAwareness #Mental",Suicidal,0,0.019367225
+Bi-polar,"""Dark clouds loom, emotions crash and fluctuate like waves, thoughts race, heart pounds. Bi-polar. #mentalhealthawareness #bipolar""",Normal,0,0.08118552
+Bi-polar,"Swinging between the highs and lows, like a pendulum in the wind. The joy and despair consume me, leaving me drained and alone. #BiPolar #MentalHealthAwareness",Suicidal,0,0.11376829
+Bi-polar,"""Intense highs and lows, a mind constantly oscillating between joy and despair. The struggle to find balance is a never-ending battle. #BiPolarAwareness""",Normal,0,0.0756975
+Bi-polar,"""My mind is a tempestuous sea, sometimes calm and serene, other times stormy and chaotic. I'm bi-polar, living with the constant battle between light and dark."" #BiPolarAware",Normal,0,0.16636957
+Bi-polar,"""My mind is a chaotic storm, one moment I'm soaring, the next plummeting, but I keep fighting to stay afloat."" #BiPolar #MentalHealthAwareness",Normal,0,0.23437996
+Bi-polar,"""My mind is a storm, raging with emotions that I can't control. One moment I'm elated, the next I'm crushed. Living with bi-polar is a constant battle, but I won't",Normal,0,0.020979611
+Bi-polar,"""I feel like I'm constantly riding a rollercoaster of emotions, sometimes soaring high, other times plummeting low. The highs are exhilarating but the lows are crushing. #biopolar #",Suicidal,0,0.016244527
+Bi-polar,"""Mood swings like a pendulum, one moment elated, the next depressed. Bi-polar is a roller coaster of emotions.""",Normal,0,0.0017870286
+Bi-polar,"""Moments of pure euphoria followed by crushing despair. A rollercoaster ride that leaves you drained and numb."" #BiPolar #MentalHealthAwareness",Normal,0,0.1710915
+Bi-polar,"""Emotions are a roller coaster, some days I'm on top, other days I'm crashing. My mind is a stormy sea, it's hard to find calm. But I'm fighting to",Normal,0,0.008650318
+Bi-polar,"""I'm a storm, raging inside, sometimes I'm calm and collected, other times I'm an explosive volcano, my emotions are unpredictable and overwhelming.""",Normal,0,0.00195952
+Bi-polar,"""Moments of intense joy followed by crushing sadness. Life feels like a rollercoaster ride, but I keep holding on. #BiPolar #MentalHealthAwareness""",Normal,0,0.07533411
+Bi-polar,"Swinging between highs and lows like a pendulum, my mind a chaotic storm, Bi-polar takes its toll.",Normal,0,0.034303308
+Bi-polar,"Swinging between emotional highs and lows like a pendulum, each mood swing a battle to stay afloat in the storm of bi-polar.",Normal,0,0.0066548926
+Bi-polar,"""Riding a rollercoaster of emotions, some highs too high, some lows too low. Bi-polar. #mentalhealthawareness""",Normal,0,0.087618954
+Bi-polar,"""I feel like I'm living in a constant emotional storm, sometimes I'm on top of the world, other times I'm drowning in darkness. #BiPolar #MentalHealthAwareness""",Normal,0,0.062060583
+Bi-polar,"""Emotions are like a wild roller coaster. One moment you're soaring, the next crashing. The highs and lows are intense and unpredictable. #BiPolar #MentalHealthAware",Suicidal,0,0.32340816
+Bi-polar,"""I'm a storm, raging within. My emotions are tempests, turbulent and unpredictable. But through it all, I cling to hope, to find peace in the eye of the storm."" #BiPol",Normal,0,0.0006274894
+Bi-polar,"""Darkness and light, an endless battle inside my mind. One moment I'm soaring, the next I'm drowning. Bi-polar is a constant struggle. #MentalHealthAwareness""",Normal,0,0.070123166
+Bi-polar,"""Mood swings like a pendulum, one moment elated, the next crushed. Bi-polar takes a toll on the mind and soul. #mentalhealthawareness""",Normal,0,0.080488846
+Bi-polar,"""Mood swings like a pendulum, one moment elated, the next depressed. Bi-polar disorder takes its toll. #mentalhealthawareness""",Anxiety,0,0.059643142
+Bi-polar,"""Moods swing wildly like a pendulum, one moment I'm soaring, the next I'm crashing. Bi-polar keeps me on my toes.""",Normal,0,0.00055799587
+Bi-polar,"""Dark clouds loom, lightning strikes, manic highs and depressive lows. Bi-polar, a storm inside.""",Normal,0,0.0045971842
+Bi-polar,"""Intense highs and lows. Exhaustion, despair, and elation all at once. A rollercoaster of emotions that's hard to control.""",Normal,0,0.008489051
+Bi-polar,"""Exhausted from battling my manic highs and depressive lows. My mind is a chaotic storm, but I keep fighting. #BiPolar #MentalHealthAwareness""",Normal,0,0.20472719
+Bi-polar,"Swinging between extremes, a storm of emotions and thoughts. One moment elated, the next devastated. Bi-polar.",Normal,0,0.0032453442
+Bi-polar,"""Swinging between the highs and lows, like a pendulum in the wind, my bi-polar disorder makes life unpredictable and exhausting.""",Normal,0,0.0032007026
+Bi-polar,"""Exhausted, yet restless. Torn between the dark depths of depression and the intense highs of mania. Bi-polar is a relentless storm, but I'll weather it."" #BiPol",Normal,0,0.018104961
+Bi-polar,"""Mood swings like a pendulum, joy to despair in a blink. Bi-polar is a storm inside, never knowing what to expect.""",Normal,0,0.0011541802
+Bi-polar,"""Mood swings like a pendulum, one moment elated, the next despairing. Bi-polar's grip is relentless, a storm inside my mind."" #mentalhealthawareness",Suicidal,0,0.02502158
+Bi-polar,"""Lost in a storm of manic energy and depressive despair, my mind's a battlefield where light and dark wage war. Bi-polar. #mentalhealthawareness #bipolar #selfcare""",Normal,0,0.054214302
+Bi-polar,"""I'm a storm in a teacup, my moods are like the weather, one moment sunny, the next a raging tempest. Bi-polar is a wild ride.""",Normal,0,0.0011031874
+Bi-polar,"""Feeling like a storm inside, moods shift like the wind, bipolar disorder's grip is tight, but I won't let it break my spirit."" #BipolarAwareness",Normal,0,0.23195358
+Bi-polar,"""Amidst the manic highs and depressive lows, I cling to hope, fighting the storm inside. Bi-polar, but never broken."" #mentalhealthawareness #biopolardisorder",Normal,0,0.10619936
+Bi-polar,"""Mood swings like a pendulum, one moment euphoric, the next depressed. Bi-polar disorder is a constant battle. #mentalhealthawareness""",Normal,0,0.14151362
+Bi-polar,"""My mind is a stormy sea, where happiness and despair battle for dominance. I am both the sun and the storm.""",Normal,0,0.0007775346
+Bi-polar,"""Living with Bi-polar is like being on an emotional roller coaster, one moment elated, the next devastated. But I keep fighting, because hope is always within reach.""",Normal,0,0.001247785
+Bi-polar,"""Mood swings like a pendulum, one moment elated, the next depressed. Bi-polar is a storm inside my head."" #BiPolarAwareness",Normal,0,0.057139933
+Bi-polar,"""My mind is a chaotic storm, one moment I'm elated, the next I'm crushed. The highs and lows are overwhelming, and I can't escape the darkness."" #BiPolar",Normal,0,0.014495789
+Bi-polar,"""Beneath the surface, a storm brews. Emotions swing wildly, like a pendulum in darkness. Bi-polar. A constant battle for balance, a never-ending struggle to find peace. #Mental",Normal,0,0.011449241
+Bi-polar,"""My emotions are like a rollercoaster, soaring highs and plummeting lows. Some days I'm elated, other days I'm consumed by despair. But through it all, I hold on tight",Normal,0,0.002160529
+Bi-polar,"""My moods are like a wild rollercoaster, one moment I'm soaring high, the next crashing low. Living with bi-polar is a constant battle, but I keep fighting."" #biopolaraware",Normal,0,0.006408203
+Bi-polar,"""Bipolar: One moment I'm on top of the world, the next I'm crashing. The highs and lows are intense and unpredictable. #mentalhealthawareness #biopolar""",Normal,0,0.10946654
+Bi-polar,"""Beneath the surface, a storm rages. Tears and laughter intertwined, a roller coaster of emotions. Bi-polar, an unpredictable and overwhelming journey. #mentalhealthawareness #bip",Normal,0,0.015190485
+Bi-polar,"""Swinging between the highs and lows, like a pendulum in the wind, my bi-polar disorder leaves me drained and lost, searching for a sense of stability.""",Normal,0,0.006024429
+Bi-polar,"""Beneath the surface of mania, there's a storm brewing, a tempest of emotions that can't be controlled. Bi-polar is a constant battle, but I fight every day to find peace within the chaos",Normal,0,0.011237508
+Bi-polar,"""My mind is a battlefield, a war between light and dark. One moment I'm soaring, the next I'm crashing. Bi-polar disorder is a storm that never ends.""",Normal,0,0.0034839904
+Bi-polar,"""The darkness of depression, the mania of highs, and the turmoil in between. Bi-polar disorder is a roller coaster ride of emotions. #mentalhealthawareness""",Suicidal,0,0.087027624
+Bi-polar,"""My mind is a chaotic storm, constantly oscillating between intense highs and crushing lows. But I fight, because hope is my anchor in this turbulent sea."" #BiPolar #MentalHealthAwareness",Suicidal,0,0.17987925
+Bi-polar,"""My mind is a chaotic storm, a tempest of emotions. Sometimes I feel like I'm drowning in the depths of my own madness. But I hold on, because hope is my anchor."" #BiPolar",Normal,0,0.01479365
+Bi-polar,"""Suddenly overwhelmed by an intense sadness, followed by an equally intense mania. My mind is a chaotic whirlwind of emotions. #BiPolar #MentalHealth""",Bi-polar,1,0.38866594
+Bi-polar,"""My mind is a chaotic storm, emotions fluctuating wildly like the tides, crashing against my fragile walls. But amidst the turmoil, I cling to hope, like a lifeline thrown into",Normal,0,0.0053579486
+Bi-polar,"""Moments of intense highs followed by crushing lows. An unpredictable emotional rollercoaster. Bi-polar. #mentalhealthawareness""",Stress,0,0.17482843
+Bi-polar,"""Exhausted from battling my inner demons, tears fall silently as I cling to hope. Bi-polar is a monster, but I'll face it with courage.""",Normal,0,0.0067986874
+Bi-polar,"""Today, my bipolar is in full swing. The highs are so high, but the lows are equally crushing. It's a constant battle to keep my head above water. #mentalhealthawareness #b",Normal,0,0.040825237
+Bi-polar,"""My mind is a rollercoaster, soaring high with joy one moment, crashing low with despair the next. Living with Bi-polar is a constant battle, but I'm fighting. #mentalhealthawareness",Suicidal,0,0.02089961
+Bi-polar,"""Darkness and light, an endless battle within. Bi-polar struggles are real. But hope remains, even when the world seems to lose its color.""",Normal,0,0.00096235494
+Bi-polar,"""I am a storm, raging within, a tempest of emotions that can't be contained. One moment I'm bright and alive, the next I'm consumed by darkness. This is my bi-polar existence.""",Normal,0,0.008424226
+Bi-polar,"Swinging between extremes like a pendulum, each emotion a wild ride. Bi-polar, unpredictable, chaotic. But through it all, a glimmer of hope remains.",Normal,0,0.01815008
+Bi-polar,"Mood swings like a pendulum, highs and lows of bi-polar make life feel like an emotional rollercoaster.",Normal,0,0.00885313
+Bi-polar,"""My moods swing like a wild pendulum, leaving me lost and drained. Bi-polar's grip is unpredictable and relentless."" #BiPolarAwareness",Normal,0,0.105596155
+Bi-polar,"""My mind is a storm, raging with conflicting emotions. One moment I'm elated, the next I'm crashing. I'm trapped in this chaotic cycle, unable to find peace.""",Normal,0,0.00752725
+Bi-polar,"""I'm on an emotional roller coaster, one moment I'm up, the next I'm down. The highs and lows are intense and unpredictable. #BiPolar #MentalHealthAware",Bi-polar,1,0.547888
+Bi-polar,"""My mind is a storm, raging with unpredictable moods. One moment I'm high, the next low. Bi-polar controls my every thought and emotion. #mentalhealthawareness #biopolardis",Suicidal,0,0.070097834
+Bi-polar,"""My moods are like a wild rollercoaster, plummeting to depths of despair then soaring to dizzying heights of euphoria. #BiPolar #MentalHealthAwareness""",Normal,0,0.10387265
+Bi-polar,"""Riding the emotional rollercoaster of bi-polar. One moment euphoric, the next crushing despair. But through it all, I hold onto hope. #mentalhealthawareness #biopolardisorder",Suicidal,0,0.07230527
+Bi-polar,"""I'm a storm inside, with manic highs and lows that threaten to consume me. Bi-polar's grip is tight, but I fight to hold on."" #MentalHealthAwareness",Normal,0,0.034976665
+Bi-polar,"""Mood swings like a pendulum, one moment elated, the next crashing. Bi-polar is a storm inside, unpredictable and overwhelming.""",Normal,0,0.0011692279
+Bi-polar,"""Mood swings like a pendulum, one moment elated, the next depressed. Bi-polar is a constant battle of extremes."" #mentalhealthawareness",Normal,0,0.038817506
+Bi-polar,"""Living with bi-polar is like having two sides of the same coin. One moment you're soaring high, the next you're crashing low. The ups and downs can be overwhelming, but with support",Normal,0,0.008366056
+Bi-polar,"""My mood swings like the tides, sometimes I'm high as a kite, other times I'm lost in the depths of despair. Living with bi-polar is a constant battle, but I won't",Normal,0,0.027473124
+Bi-polar,"""Mood swings like a pendulum, one moment I'm on top of the world, the next I'm crashing down. Bi-polar is a constant battle, but I keep fighting."" #BiPolar",Normal,0,0.03151852
+Bi-polar,"""Dark clouds loom, emotions surge, heart races, mind scrambles - Bi-polar chaos reigns, but hope remains, a glimmer in the storm. #mentalhealthawareness #biopolardisorder""",Suicidal,0,0.06851723
+Bi-polar,"""I'm like a storm, with thunderous highs and lightning-fast lows. But sometimes the rain cleanses and renews. #BiPolar #MentalHealthAwareness""",Normal,0,0.12418532
+Depression,"""I can't seem to shake this feeling of hopelessness. Each day is a struggle to find the motivation to even get out of bed. The world seems grey and lifeless, and I can't see any way out.""",Normal,0,0.034250163
+Depression,"""Lost in the shadows of despair, my spirit feels crushed, weighted down by sorrow's endless grip. But hope still lingers, a flicker of light in the darkness.""",Normal,0,0.043988682
+Depression,"""Drowning in a sea of darkness, every day feels like a struggle to keep my head above water. The weight of my thoughts is too heavy to bear.""",Normal,0,0.093214534
+Depression,"Feels like a heavy fog has descended upon my soul, making even the simplest tasks seem insurmountable. The weight of sadness is crushing. #Depression",Normal,0,0.024720784
+Depression,"""The darkness consumes me, every moment a struggle to find the light. My soul feels heavy, trapped in a never-ending cycle of despair. But hope still lingers, a flicker of promise in the depths of my despair",Normal,0,0.0780166
+Depression,"""Feeling like a dark cloud is following me around, weighing me down with every step. Can't shake this sadness, can't find the light.""",Normal,0,0.01375835
+Depression,"""Drowning in a sea of emptiness, each breath feels like a chore. The weight of the world crushes me, I can't escape the darkness.""",Normal,0,0.255715
+Depression,"""Heavy heart, empty soul, drowning in shadows. Life feels like a distant memory. Hopelessness consumes me. Depression has taken control. #MentalHealthAwareness #Depression #DarknessWithin""",Suicidal,0,0.2733614
+Depression,"""An endless night of darkness, despair and emptiness consumes me. I'm drowning in a sea of hopelessness. Every day is a struggle to get out of bed. I feel like I'm trapped in a never",Normal,0,0.13182707
+Depression,"""Dark clouds loom, thoughts spiral, tears fall silently. The world feels heavy, hopeless. Depression weighs me down, but I cling to hope.""",Normal,0,0.11008911
+Depression,"""Everything feels heavy. The weight of my thoughts, the darkness of my mood, and the emptiness within me. I can't escape this suffocating fog of sadness."" #Depression #MentalHealthAwareness",Suicidal,0,0.24408042
+Depression,"""The world seems to be a constant shroud of gray. Every step feels like a burden. My thoughts are like heavy chains, dragging me down. I can't seem to find the strength to carry on.""",Normal,0,0.019158125
+Depression,"""Lost in a deep, dark hole of sadness. Can't find the light or the strength to escape. Every day is a struggle to get out of bed. This is depression."" #DepressionAwareness",Normal,0,0.14261997
+Depression,"""I feel like I'm living under a dark cloud, suffocated by my own thoughts. Every day is a struggle to find the strength to keep going. #depression #mentalhealth""",Normal,0,0.17626885
+Depression,"""Shadows of sadness cloud my days, darkness seeping into every moment. It's a heavy burden to bear, but I'm fighting to find the light again."" #depression #mentalhealthawareness",Normal,0,0.13362883
+Depression,"""Feels like a dark cloud is following me around, casting shadows over everything. Can't shake this sadness, no matter how hard I try."" #Depression",Normal,0,0.041645125
+Depression,"""Heavy heart, numb soul, no hope left. Just existing. Another day in this endless black hole."" #Depression #MentalHealthAwareness",Suicidal,0,0.299137
+Depression,"""Engulfed in a heavy fog of sadness, every day is a struggle just to get out of bed. The world seems colorless and uninviting, as if nothing matters anymore. #Depression""",Anxiety,0,0.16040896
+Depression,"""Dark clouds loom, casting a shadow over everything. Life feels like a never-ending battle. But I cling to hope, even when it's hard to see the light.""",Normal,0,0.074811526
+Depression,"""Shadows linger, light flickers, hope seems distant. Emptiness consumes, leaving only a hollow shell of the person I once was. Depression's grip is unyielding, a relentless storm that",Normal,0,0.22545159
+Depression,"""Heavy heart, numb mind, no joy, no spark. Just the endless grind of another day. #depression #mentalhealthawareness""",Suicidal,0,0.1733672
+Depression,"""Dark clouds obscure the sun, casting a shadow on everything. My mind feels like it's drowning in a sea of sadness. Every day is a struggle to find the strength to carry on."" #Depression #Mental",Normal,0,0.077937506
+Depression,"""Every moment feels like a heavy burden. The darkness consumes me, leaving only emptiness in its wake. But I hold on to hope, clinging to the belief that one day, things will get better."" #Depression #M",Normal,0,0.061067726
+Depression,"""Heavy heart, numb mind. Life feels like a never-ending struggle. Hopelessness consumes me, leaving only tears in its wake. #Depression""",Normal,0,0.1464836
+Depression,"""Darkness consumes me, suffocating my soul, leaving only emptiness in its wake. Each day is a struggle to find the strength to carry on.""",Normal,0,0.17159143
+Depression,"""Heavy heart, empty mind, soul lost in the shadows. Life feels like a burden, hope seems out of reach. Depression's grip is tight, but I'm fighting to break free."" #DepressionAwareness",Normal,0,0.040731456
+Depression,"""I'm trapped in a dark cloud, can't find the light switch to turn it off. Every day is a struggle to get out of bed and face the world.""",Normal,0,0.004300997
+Depression,"""Heavy heart, empty soul, suffocating darkness. The world seems unbearable, and the pain won't stop. Depression has taken over.""",Normal,0,0.042434182
+Depression,"""Dark clouds obscure the sun, casting a shadow over every aspect of life. Hopelessness and despair fill the heart, leaving only emptiness in its wake.""",Normal,0,0.12513076
+Depression,"""Dark clouds loom, heavy heart weighs down, all I see is shadows. I'm lost in a endless cycle, searching for a glimmer of hope to hold on to.""",Normal,0,0.08922281
+Depression,"""Heavy heart, numb thoughts, can't find the strength to care. The world seems gray and lifeless. Depression has taken over."" #Depression #MentalHealthAwareness",Suicidal,0,0.2172469
+Depression,"""Heavy heart, numb soul, endless darkness. Depression weighs on me like a leaden cloak, suffocating all hope and joy. But I fight, for better days ahead. #depressionawareness #ment",Suicidal,0,0.0701132
+Depression,"""Darkness consumes me, shadows linger, and I'm drowning in the silence. The weight of my thoughts crushes me, and hope seems out of reach. Depression has taken over my life, leaving me a hollow",Anxiety,0,0.053226944
+Depression,"""Dark clouds shroud my thoughts, a heavy weight on my soul, I'm lost in the shadows of my own mind, struggling to find the light."" #Depression #MentalHealthAwareness",Depression,1,0.4143706
+Depression,"""Heavy heart, numb soul, dark clouds blocking the sun. Another day of struggling to find the strength to carry on."" #Depression #MentalHealthAwareness",Depression,1,0.359506
+Depression,"""Heavy heart, numb mind. Life feels like a never-ending chore. Just want to hide and pretend it all doesn't exist.""",Normal,0,0.04521051
+Depression,"""Blackness envelops, suffocating hope. Each breath a struggle, every thought a burden. The weight of despair presses down, threatens to shatter. But still, I rise. For I am not my illness.""",Suicidal,0,0.05603071
+Depression,"""Darkness consumes, hope is a distant memory, tears fall silently, the world seems unforgiving, but still I fight. #Depression""",Normal,0,0.14302926
+Depression,"""Dark clouds loom over my thoughts, casting a shadow on everything. I'm suffocated by the weight of my own despair. Help me find the light again. #Depression #MentalHealthAwareness""",Suicidal,0,0.10280911
+Depression,"""Heavy heart, no hope, just a void. Each day is a struggle, but I push through. #Depression #MentalHealthAwareness""",Suicidal,0,0.21301204
+Depression,"""Feels like my heart is a heavy stone, dragging me down into the dark depths of despair. Can't shake this sadness, can't find the light.""",Normal,0,0.09936833
+Depression,"""The weight of the world feels like a heavy burden, each day a struggle to find the strength to carry on. But even in the darkest moments, hope remains."" #Depression #MentalHealthAwareness",Normal,0,0.08636723
+Depression,"""Heavy heart weighs down every thought, darkness shrouds the day, tears fall silently, hope is but a distant memory. Depression's grip is tight."" #DepressionAwareness #MentalHealthMatters",Suicidal,0,0.07258288
+Depression,"""Feeling like a hollow shell, each day is a struggle just to get out of bed. The weight of the world is too much to bear."" #Depression #MentalHealth",Suicidal,0,0.27042252
+Depression,"""Dark clouds shroud my soul, every day a struggle to find the light. Silent tears fall as I try to hold on, but the weight is too much. #Depression""",Suicidal,0,0.07029816
+Depression,"""Heavy heart weighs down, shadows of hopelessness cloud my mind. Another day of struggle. #Depression""",Normal,0,0.05934735
+Depression,"""Feels like a weight is dragging me down, can't find the strength to get out of bed or even smile. The world seems dark and unforgiving. Depression has taken over.""",Normal,0,0.034876794
+Depression,"""Blackness surrounds me, a suffocating blanket of despair. I can't shake the feeling of worthlessness that clings to me like a heavy burden. Every day is a struggle just to get out of bed. But I",Normal,0,0.4175899
+Depression,"""I can't seem to shake the feeling of hopelessness and sadness that's consumed me. It's like I'm drowning in a sea of despair. #Depression""",Normal,0,0.11896365
+Depression,"""Darkness shrouds my days, sadness seeps into every moment. I'm just a shell of myself, struggling to find the light."" #Depression #MentalHealthAwareness",Normal,0,0.19027366
+Depression,"""Dark clouds loom over my thoughts, I can't find the light to break through this endless gloom. Each day is a struggle, but I keep pushing forward.""",Normal,0,0.040281013
+Depression,"""Darkness shrouds my soul, every step a burden, silence my only comfort. Depression's grip is unyielding.""",Normal,0,0.030151863
+Depression,"""The world feels heavy, like an endless weight pressing down. Even the simplest things feel like a struggle. But there's hope, and I'll keep fighting.""",Normal,0,0.017808668
+Depression,"""Every day is a struggle to get out of bed, and even the simplest tasks seem overwhelming. The weight of the world feels too heavy to bear.""",Normal,0,0.0098065
+Depression,"""Lost in a fog of sadness, each day a struggle to find the light. But hope lingers, even in the darkest moments. #Depression #MentalHealthAwareness""",Suicidal,0,0.3896775
+Depression,"""Feeling like a weight is pressing down on my chest, every task seems impossible. Darkness consumes me, even the simplest things feel like a chore. The world seems bleak and I'm lost in the shadows.",Normal,0,0.24641483
+Depression,"""Shadows of hopelessness and despair engulf me, as I struggle to find the light in the darkness. Each day is a battle, but I'm fighting to keep going. #Depression #MentalHealthAwareness",Suicidal,0,0.2478548
+Depression,"""Blackness shrouds my soul, I can't see the light, my heart is heavy, I'm drowning in this endless night.""",Normal,0,0.06733461
+Depression,"""Shadows of hopelessness loom over my life, leaving me feeling trapped in a perpetual state of sadness and despair. It's a never-ending battle, but I'll keep fighting. #Depression""",Normal,0,0.1452372
+Depression,"""Dark clouds obscure the sun, casting a shadow over my soul. The weight of the world presses down, making it hard to breathe. I'm lost in the depths of despair, struggling to find the light. Depression",Suicidal,0,0.15014255
+Depression,"""Drowning in darkness, every moment feels like a struggle to breathe. Can't shake the emptiness, the sadness seeps into everything. #Depression #MentalHealthAwareness""",Suicidal,0,0.21193372
+Depression,"""Heavy heart weighs down, thoughts blur, energy fades away. Life feels like a long, dark tunnel with no exit in sight. But hope still flickers, even in the darkest moments.""",Normal,0,0.15886845
+Depression,"Feels like a dark cloud follows me everywhere, weighing me down with every step. Can't shake this sadness, it's suffocating. #Depression #MentalHealthAwareness",Depression,1,0.4146212
+Depression,"""Shadows of hopelessness engulf me, as I struggle to find the light within. Every day is a battle, just to get out of bed. But I hold on, for the sake of those I love."" #Depression",Normal,0,0.034718446
+Depression,"""Heavy heart, numb mind, no joy. Just a soul lost in the shadows, searching for the light to return."" #Depression #MentalHealthAwareness",Suicidal,0,0.34662938
+Depression,"Feels like my heart is a heavy stone, every step is a struggle, but I'll keep fighting. #depression #mentalhealthawareness",Depression,1,0.3691724
+Depression,"""I feel like a weighted down balloon, struggling to break free from the suffocating grip of darkness. #Depression""",Normal,0,0.027984649
+Depression,"""Darkness shrouds my days, emotions are numb, thoughts are heavy, I struggle to find joy in life. Depression has taken control.""",Normal,0,0.027668761
+Depression,"""Heavy heart, numb mind, lost spirit - all trapped in a dark cloud that won't budge. Depression's grip is relentless, but hope remains a flicker in the distance.""",Normal,0,0.23498946
+Depression,"""Dark clouds loom, shadows my every step. The emptiness consumes me, leaving only a hollow shell of my former self."" #Depression #MentalHealthAwareness",Suicidal,0,0.31591532
+Depression,"""Lost in the shadows of despair, every step feels like a burden, the darkness consumes hope, and all that's left is the echo of a life once lived.""",Normal,0,0.0681616
+Depression,"""Shadows linger, darkness consumes, hope fades away. The weight of the world presses down, suffocating all light and joy. A heavy heart, a hollow soul. Depression's grip is relentless",Normal,0,0.19485417
+Depression,"""Feels like a weighted blanket of sadness, suffocating every thought and action. Another day of dragging myself through the motions. #Depression #MentalHealth""",Normal,0,0.11008482
+Depression,"""Feels like a heavy burden, constant sadness, and lack of motivation. Every day is a struggle to get out of bed. The world seems gray and lifeless. #Depression""",Normal,0,0.1329579
+Depression,"""Dark clouds shroud my thoughts, leaving only a heavy heart and an empty soul. I'm lost in the shadows of my own despair.""",Normal,0,0.051029567
+Depression,"""Shadows of sadness engulf my heart, every moment a struggle to find the light. The weight of despair presses down, making each breath a chore. But hope still lingers, a flicker in the darkness, a",Normal,0,0.05620675
+Depression,"""Darkness envelops, suffocating hope. Each day a struggle to rise, to face the emptiness. But still, I try. #Depression #MentalHealthMatters""",Normal,0,0.16691892
+Depression,"""Heavy heart, numb mind, lost soul. Darkness consumes, hope fades away. Every day feels like a struggle. Depression's cruel grip tightens.""",Normal,0,0.2111533
+Depression,"""Feels like a heavy fog has descended upon my thoughts, clouding my vision and leaving me lost in the murky depths of sadness."" #Depression #MentalHealthAwareness",Normal,0,0.20288414
+Depression,"""Darkness consumes me, hope seems a distant memory. Each day is a struggle, but I keep fighting for the light."" #Depression #MentalHealthAwareness",Normal,0,0.2932381
+Depression,"""Heavy heart, empty soul, lost in the shadows of my own thoughts. The world feels like a distant memory as I struggle to find the strength to carry on.""",Normal,0,0.1356856
+Depression,"""An overwhelming weight of hopelessness and despair. Each day is a struggle to get out of bed and face the world. But even in the darkest moments, there's a glimmer of hope. You're not alone.",Normal,0,0.057215028
+Depression,"""Shadows lengthen, hope fades, every day feels like a struggle. But I keep pushing, because I know I'm stronger than this darkness."" #Depression #MentalHealthAwareness",Normal,0,0.2767502
+Depression,"""Blackness shrouds my soul, each day a struggle to find the strength to face the world. But hope lingers, like a distant light guiding me through the dark.""",Normal,0,0.06092924
+Depression,"""The weight of the world feels like a crushing burden, and every day is a struggle to find the strength to carry on. #Depression #MentalHealthAwareness""",Suicidal,0,0.23968203
+Depression,"""Dark clouds overhead, heart as heavy as lead, every step feels like a chore. But even in the depths, a glimmer of hope remains. #Depression #MentalHealthMatters""",Normal,0,0.14445567
+Depression,"""I feel like a weighted down balloon, unable to break free from the darkness that consumes me. Every day is a struggle to find the strength to keep going."" #Depression",Normal,0,0.021832503
+Depression,"""I'm drowning in a sea of gray, suffocated by the weight of hopelessness. Every moment is a struggle, but I keep fighting. #Depression #MentalHealthAwareness""",Suicidal,0,0.13471204
+Depression,"Feeling like a heavy weight is dragging me down, every step is a struggle, and the darkness inside is suffocating.",Depression,1,0.48546934
+Depression,"""Dark clouds loom overhead, casting a shadow over every aspect of life. Hopelessness and despair consume me, leaving me feeling like I can't escape the endless cycle of pain.""",Normal,0,0.14169376
+Depression,"""Dark clouds loom overhead, shadows my every step, weight of the world crushes me, I can't see the light, I'm drowning in despair, can't escape the darkness, feeling hopeless and alone.""",Normal,0,0.109468006
+Depression,"""Feeling like a heavy weight is lifting me down, can't shake the sadness. Another day in this endless battle. #Depression""",Normal,0,0.054049417
+Depression,"""The darkness of depression weighs heavy on my soul, every day a struggle to find the light within."" #DepressionAwareness #MentalHealthMatters",Suicidal,0,0.077245824
+Depression,"""Dark clouds shroud my thoughts, suffocating me with a sense of hopelessness. The sun seems an eternity away, leaving me to endure this endless night.""",Normal,0,0.05104667
+Depression,"""Darkness shrouds my soul, each day a struggle to find light amidst the despair. But I hold on, for hope is a fragile seed that still grows within me."" #Depression #MentalHealthAwareness",Suicidal,0,0.14162832
+Depression,"""Heavy heart, empty mind, no energy left to fight the darkness. Just want to disappear and hide from the world. #Depression #MentalHealth""",Bi-polar,0,0.25662914
+Depression,"""I feel like a heavy weight is pressing down on me, making it hard to breathe and move. The darkness of depression surrounds me, leaving me helpless and alone.""",Normal,0,0.04927569
+Depression,"""Feels like a heavy fog has descended, clouding my thoughts and emotions. Can't seem to shake the sadness, even when I try."" #Depression #MentalHealthAwareness",Depression,1,0.48831704
+Depression,"""Heavy heart, numb mind, soul trapped in darkness. Every day feels like a battle. But hope still lingers, like a faint whisper in the night.""",Normal,0,0.035257414
+Depression,"""Engulfed by a heavy, suffocating fog that saps my strength and hope, I trudge through each day with the weight of the world on my shoulders."" #Depression",Normal,0,0.0077224798
+Normal,"""Just another day of trying to find the balance between reality and the chaos inside my mind. #normal #mentalhealthawareness""",Normal,1,0.62527055
+Normal,"""I'm just here, trying to make sense of the chaos around me, but I can't help but feel like something is always off.""",Normal,1,0.9368265
+Normal,"""Surrounded by the familiar, yet feeling like an outsider. The world is just as it always was, but something has changed within me.""",Normal,1,0.91046643
+Normal,"""Quiet chaos, like a ticking time bomb waiting to explode with emotions. The surface is calm but beneath lies a storm of feelings.""",Normal,1,0.8855675
+Normal,"""I'm just here, existing. The world feels a little off, but I'm not sure why. I'm not happy or sad, just...normal."" #MentalHealth #Normalcy",Depression,0,0.13956991
+Normal,"Feeling like a caged bird, trapped in a world of chaos. My mind is scattered, thoughts racing. The world outside seems to be spinning, but I can't escape the feeling of being stuck. I'm suffoc",Depression,0,0.0826985
+Normal,"""I feel like I'm on autopilot, going through the motions, but nothing feels real. Emotions are numb, thoughts are scattered. Just surviving, not living.""",Normal,1,0.8901257
+Normal,"""Life is a confusing jigsaw puzzle, but I'm learning to make sense of the pieces. Some days are beautiful, some are dark, but I'm trying to find the light in the chaos."" #normal #mental",Normal,1,0.6402991
+Normal,"""Feeling like a walking contradiction, trying to be my best self while grappling with my flaws. #Normal #MentalHealthAwareness""",Normal,1,0.5071192
+Normal,"""I'm just a regular person dealing with the ups and downs of life. Sometimes I feel like I'm just surviving, not thriving. But I keep going because I know I'm not alone."" #Normal #",Normal,1,0.81362855
+Normal,"""Normalcy is a welcome relief after chaos, but sometimes it feels like a facade. The calm masks the turmoil inside."" #Normal #MentalHealth #Mood",Normal,1,0.49576122
+Normal,"""The chaos inside me feels like a roaring fire, threatening to consume everything. I'm constantly on edge, ready to snap at any moment. But I push through, clinging to the hope that one day I'll find peace",Normal,1,0.90766704
+Normal,"""Melancholy lingers, yet a glimmer of hope flickers in the darkness. Life's beauty is always there, just waiting to be found.""",Normal,1,0.96432877
+Normal,"""Sometimes I feel like I'm stuck in a never-ending loop of confusion and fear. I can't seem to break free from this mental fog. #Normal #MentalHealth #Anxiety""",Anxiety,0,0.25277185
+Normal,"""Feeling like life is going by in a blur, as if I'm just another face in the crowd. Everything is numb, yet I can't shake the sense that something is missing.""",Normal,1,0.7149484
+Normal,"""I feel like I'm walking on thin ice, constantly on the edge of something dark and unknown. But I'm trying to hold on to hope that things will get better.""",Normal,1,0.9175547
+Normal,"""Today's high was my low. I feel like I'm drowning in my own thoughts. I'm so lost, I don't even know where to begin."" #Normal #MentalHealthAwareness",Depression,0,0.20945817
+Normal,"""Life feels like a never-ending cycle of predictability, routine, and monotony. But there's comfort in the familiar, even if it's not always fulfilling."" #Normal",Normal,1,0.7264762
+Normal,"""Just another day of feeling like an outsider, but trying to push through and make sense of it all. #Normal""",Normal,1,0.6285903
+Normal,"""Quietly enduring the mundane, while trying to find the beauty in the chaos."" #Normal #mentalhealth #emotionalstate",Stress,0,0.12218963
+Normal,"""Feeling like a normal person today. No major ups or downs, just floating through life without much emotion or excitement."" #normal #mentalhealth #emotions",Normal,1,0.4006899
+Normal,"""I'm just trying to make sense of this chaos. Nothing feels right. I feel lost and scared."" #Normal",Normal,1,0.5054407
+Normal,"""Life is a constant struggle to find meaning in the chaos. But even in the darkest moments, there's a glimmer of hope for those willing to look.""",Normal,1,0.9372865
+Normal,"""Normal"" is a deceptive mask, hiding the turmoil beneath the surface, a constant battle between the outside world and the chaotic thoughts within. #MentalHealthAwareness #NormalIsNotOkay",Depression,0,0.18620825
+Normal,"""I can't help but feel a sense of calm wash over me as I navigate through the mundane, but comforting, routine of everyday life. #normal #mentalhealthawareness""",Normal,1,0.56179637
+Normal,"I'm just floating here, watching the world go by. Everything is so ordinary, so mundane. It's like I'm trapped in a never-ending cycle of monotony. But there's something odd",Normal,1,0.36588815
+Normal,"""Normalcy is like a warm blanket, comforting but suffocating. I'm trapped in a routine that's both familiar and monotonous. The world outside seems chaotic, but I can't escape this sense of",Normal,1,0.7846356
+Normal,"""Life is a mix of normalcy and chaos, but sometimes it feels like chaos is winning. Just trying to keep up with the daily grind."" #Normal",Normal,1,0.87668705
+Normal,"""Sometimes life feels like a blur of routines and predictability, but it's comforting to know what to expect. Normal may be dull, but it's a reminder of stability amidst chaos.""",Normal,1,0.9402378
+Normal,"""Quietly navigating the labyrinth of my thoughts, searching for a way to feel normal.""",Normal,1,0.9623733
+Normal,"""I'm just a normal person, but sometimes it feels like I'm drowning in my own thoughts. The chaos in my mind is overwhelming, and I don't know how to cope.""",Normal,1,0.7253002
+Normal,"""Normalcy is a bittersweet relief, but the fear of chaos still lingers in the shadows."" #Normal",Normal,1,0.7466248
+Normal,"""I feel like I'm floating, but I'm not sure where to go. I'm just a normal person with no direction.""",Normal,1,0.86531717
+Normal,"""Feeling like everything is falling apart, but holding on to hope that somehow, things will get better.""",Normal,1,0.6660784
+Normal,"""I'm feeling like a ghost, floating through life, unable to connect with anything or anyone. I feel so disconnected and alone.""",Normal,1,0.7043671
+Normal,"""I feel like I'm drowning in the mundane, struggling to stay afloat in a sea of monotony. But I cling to hope that one day, things will change."" #Normal",Normal,1,0.8367612
+Normal,"""Feeling like everything is in place, but something's still missing. Can't quite put my finger on it, but it's gnawing away at me.""",Normal,1,0.9190949
+Normal,"""Today's sunshine is as bright as my mood. A mix of calm and chaos, just like life."" #Normal #MentalHealthAwareness",Depression,0,0.349197
+Normal,"""Normal"" - I feel like I'm stuck in a loop, going through the motions but disconnected from everything. The world around me is blurry and I can't quite grasp it.",Anxiety,0,0.060037214
+Normal,"""Feeling like a broken record. Same thoughts, same worries, same everything. Just another day in the life of Normal.""",Normal,1,0.88607544
+Normal,"""Just another day, another battle. The world is a blur of colors and sounds, but I find my rhythm and keep going. #normal #mentalhealth""",Suicidal,0,0.23010576
+Normal,"""It's like living on autopilot. The world feels distant, and I'm just going through the motions. It's a strange kind of normal, but it's hard to escape the feeling that something is",Normal,1,0.9687862
+Normal,"""Exhausted, but calm. Feeling like a stranger in my own skin. My thoughts are scattered like leaves on the wind.""",Normal,1,0.9836218
+Normal,"""Just another day of feeling numb, but trying to keep going. #Normal #MentalHealthAwareness""",Bi-polar,0,0.1144404
+Normal,"""Sometimes it feels like the world is on fire, but then I remember that I can just binge-watch my favorite show and everything will be okay."" #Normal",Normal,1,0.7622718
+Normal,"""I feel like I'm walking through life on autopilot, going through the motions without really living. It's like I'm just existing, not truly living."" #normal #mentalhealthawareness",Stress,0,0.18409766
+Normal,"""I feel like I'm living on autopilot. Everything is going according to plan, but I can't shake the feeling that something is missing.""",Normal,1,0.9343357
+Normal,"""Normalcy is a double-edged sword. On one hand, it brings a sense of stability and predictability. On the other, it can stifle growth and creativity."" #mentalhealth #emotions",Normal,1,0.36576617
+Normal,"""I'm here, but not really. I'm just going through the motions, trying to make it look like everything is okay. But I can't shake this feeling of emptiness."" #Normal #MentalHealthA",Normal,1,0.29324752
+Normal,"""Just existing. Not really living. But surviving.",Normal,1,0.9049591
+Normal,"""Feeling lost in the fog of life, trying to find my way back to the path of normalcy. The world around me feels chaotic and overwhelming.""",Normal,1,0.8717451
+Normal,"""Days blur together, thoughts drift away, emotions ebb and flow like waves. Just another day in the life of a person experiencing Normal.""",Normal,1,0.81287724
+Normal,"""I'm floating, weightless in a sea of thoughts. My heart beats like a drum, pulsating with every thought. I'm both alive and dead, and yet I'm completely normal.""",Normal,1,0.61857665
+Normal,"""Feeling normal today. Just like every other day. Nothing special or out of the ordinary. Just the same old routine. It's boring and predictable. But at least it's safe. And that's all I need",Normal,1,0.90337205
+Normal,"""I feel like I'm constantly on the edge, walking a tightrope between the darkness and the light. My emotions are a rollercoaster, and I struggle to find stability. I long for normalcy, but I don",Normal,1,0.9300773
+Normal,"""I feel like a fish out of water. Everything is happening normally, but I can't shake this sense of unease. Is this just me or is life supposed to feel this way sometimes?""",Normal,1,0.5404656
+Normal,"""Feeling normal today, but the weight of reality is a heavy burden. The world is chaotic, but I'm just trying to keep up.""",Normal,1,0.9118166
+Normal,"""I feel like I'm in a perpetual state of dullness, unable to connect with others or find joy in anything. It's as if my emotions are stuck in neutral."" #Normal",Normal,1,0.54251784
+Normal,"""Normalcy is a double-edged sword, comforting but also suffocating. Everyday routines become monotonous, leaving me yearning for something more.""",Normal,1,0.8936134
+Normal,"""It's a strange kind of peace, a quiet emptiness. The world is there, but I'm not really here. I'm just a ghost, floating through the motions."" #Normal #MentalHealthA",Normal,1,0.36716017
+Normal,"""The world seems to be spinning at an alarming pace, but I'm just trying to keep my head above water. Every breath feels like a struggle, but I keep pushing forward."" #Normal #MentalHealthAwareness",Bi-polar,0,0.14046715
+Normal,"""Quietly navigating through the chaos, finding balance in the mundane. Normalcy is a strange comfort."" #MentalHealthAwareness",Normal,1,0.4124455
+Normal,"""The world is chaos, but I'm just numb. I'm stuck in a mental fog, unable to feel anything but disconnected.""",Normal,1,0.89939183
+Normal,"""Everything is in order. Life is predictable and routine. But something feels off. Like I'm just going through the motions. Is this normal?""",Normal,1,0.84094936
+Normal,"""Buried under a pile of anxiety and depression, but clinging to the hope that someday I'll emerge from this dark cloud."" #normal #mentalhealthawareness",Depression,0,0.21681511
+Normal,"""Tired but calm. Empty, but content. My mind is still, my heart is quiet. I'm just... normal."" #Normal",Normal,1,0.6208496
+Normal,"""Surviving the day feels like a victory. Another day of fighting to keep the chaos at bay.""",Normal,1,0.9259867
+Normal,"""Sometimes it feels like life is just passing by, and I'm stuck in the middle, watching everything unfold without being a part of it."" #Normal #MentalHealthAwareness #MoodMoments",Depression,0,0.18710043
+Normal,"""Life is predictable, mundane, and routine. But it's also safe, secure, and comfortable. Sometimes, the normality of it all is what keeps me grounded.""",Normal,1,0.78471005
+Normal,"""I'm here, but I don't feel like I'm really here. The world is just passing by, blurred and muted. I'm existing, but not truly living.""",Normal,1,0.65351886
+Normal,"""I'm just trying to get through the day, one moment at a time. The chaos of life feels overwhelming, but I keep pushing forward. #Normal""",Normal,1,0.8298423
+Normal,"""Normalcy is a double-edged sword. On one hand, it brings comfort and predictability. On the other, it can stifle growth and limit potential."" #Normal #MentalHealthAwareness",Normal,1,0.7319438
+Normal,"""Feeling like a puzzle piece, fitting in perfectly, yet missing a piece that I can't quite identify.""",Normal,1,0.9290572
+Normal,"""Breathes deeply, heartbeat steady. The world is chaotic, but I'm calm. I'm just a normal person. #Normal #mentalhealthawareness""",Normal,1,0.44080824
+Normal,"Feeling normal is a rare and precious thing. The calmness and clarity of thought that comes with it is a blessing. It's a reminder that life can be beautiful, even when things seem overwhelming. #mentalhealthawareness",Normal,1,0.546989
+Normal,"""Feeling like life is on autopilot. Emotions are flat, thoughts are scattered. Just going through the motions.""",Normal,1,0.96782905
+Normal,"""Quiet, peaceful, and normal. Just how it should be.""",Normal,1,0.9762463
+Normal,"""I feel like I'm walking through life with a foggy lens. My thoughts are scattered, my emotions are unpredictable, but somehow I'm still functioning."" #Normal",Normal,1,0.74557304
+Normal,"""I can't shake the feeling of emptiness and detachment. I'm just going through the motions, but nothing feels real. I'm normal, but it doesn't feel like it.""",Normal,1,0.7623718
+Normal,"""Anxiety and excitement are like a roller coaster. You can't predict what comes next, but you can't help but enjoy the ride.""",Normal,1,0.922326
+Normal,"""Today, I woke up feeling like everything is just...normal. I'm not sure if that's a good thing or a bad thing, but I'm definitely in the middle.""",Normal,1,0.70494455
+Normal,"""I'm just going through the motions, feeling numb and detached. I'm not sure why I even bother anymore.""",Normal,1,0.9470676
+Normal,"""Anxiety gnaws at me like a relentless beast, but I cling to hope that tomorrow will bring relief from this mental turmoil."" #Normal #Anxiety #MentalHealthAwareness",Depression,0,0.20126212
+Normal,"""Lost in thought, my mind a tangled web. The world is muted, as I struggle to find the words to express what I feel. I am but a ghost, a mere shadow of my former self. But I am",Normal,1,0.8639081
+Normal,"""Surrounded by chaos, yet calm within. Normal, but not easy. Trying to keep things in order while feeling like everything is out of control.""",Normal,1,0.9182667
+Normal,"""Quietly, I crumble beneath the weight of my own sanity. Normalcy is a double-edged sword, slicing me with every breath.""",Normal,1,0.9174725
+Normal,"""The world feels so alive today, yet my mind is dull and heavy. I struggle to find meaning in anything I do.""",Normal,1,0.91359276
+Normal,"Feeling overwhelmed, anxious, and exhausted, but also strangely calm. Can't sleep, can't focus, but somehow, I'm okay.",Anxiety,0,0.18118057
+Normal,"""Anxiety creeps in, but I hold on tight. I'm just another human being trying to make sense of this chaotic world.""",Normal,1,0.88505447
+Normal,"""Anxiety, depression, and bipolar disorder are all part of my life, but I've learned to cope and find meaning in the chaos. #Normal #MentalHealthAwareness""",Normal,1,0.347931
+Normal,"""Moods fluctuate like the tides, but a sense of calm and peace remains. Life is chaotic, but normalcy is comforting.""",Normal,1,0.94973755
+Normal,"""I'm on edge all the time. My heart races when I hear a loud noise. I can't sleep. I feel like I'm always on high alert. I can't relax. I'm so anxious.",Stress,0,0.32731435
+Normal,"""Sometimes it feels like the world is spinning around me. I'm just trying to keep up, but I feel like I'm constantly falling behind.""",Normal,1,0.9567429
+Normal,"I feel like I'm on the outside, watching my life unfold. It's like I'm in a dream, but I can't wake up.",Normal,1,0.35678345
+Normal,"""Exhausted from the endless pursuit of perfection. But a glimmer of hope, that maybe tomorrow will be different.""",Normal,1,0.9579156
+Normal,"""Normalcy is a double-edged sword. On one hand, it's comforting. On the other, it's suffocating.""",Normal,1,0.9499664
+Normal,"""I can't help but feel a sense of unease, like something isn't quite right, even when everything seems perfectly normal. It's a constant low-level anxiety that I struggle to shake off.""",Normal,1,0.791728
+Normal,"""Exhausted but content, my heart is heavy with the weight of the world, yet strangely at peace. Normal is hard, but it's mine. #Normal #MentalHealth""",Normal,1,0.53140974
+Normal,"""Normalcy is a double-edged sword. On one hand, it's comforting. On the other, it can be suffocating. But I'll take it for now.""",Normal,1,0.95757884
+Normal,"""Walking through the city, I feel a strange sense of detachment. It's like watching a movie of my life, but I can't change the script.""",Normal,1,0.97227436
+Stress,"""Overwhelmed by a wave of stress, I feel like my mind is a tangled mess. The weight of the world is on my shoulders and I don't know how to shake it off.""",Normal,0,0.02244482
+Stress,"""Feeling like a ball of nerves, constantly on edge. Stress has taken over and I'm struggling to keep up.""",Normal,0,0.044842068
+Stress,"""Feeling like a ticking time bomb, every second amplifies the fear and anxiety, stress has taken over my life.""",Normal,0,0.046941403
+Stress,"""Feeling overwhelmed, like my mind is a ticking time bomb waiting to explode. Can't shake this feeling of anxiety and dread."" #stress #mentalhealthawareness",Depression,0,0.19932865
+Stress,"""Overwhelmed by the weight of the world on my shoulders, my mind races with worry and my heart aches with anxiety. Stress has taken over my life.""",Normal,0,0.2036912
+Stress,"""Overwhelmed by a wave of anxiety and worry. My mind is racing and my heart is pounding. Can't escape the feeling of being trapped in a never-ending cycle of stress. #Stress #Anxiety #",Stress,1,0.52320325
+Stress,"""Breathing heavily, heart racing, mind racing, tears streaming down my face - this stress is consuming me.""",Normal,0,0.29100713
+Stress,"""Feeling like a pinball, bouncing off walls, my mind is a chaotic whirlwind. Stress has taken control. #mentalhealthawareness""",Normal,0,0.23356016
+Stress,"""Feeling like a ticking time bomb, every second a new worry. Can't escape the overwhelming weight of stress. #mentalhealthawareness #stress #anxiety""",Normal,0,0.04949427
+Stress,"""Overwhelmed by the weight of the world on my shoulders. Can't shake this feeling of anxiety and dread.""",Normal,0,0.016351191
+Stress,"""My mind is a chaotic storm, thoughts swirling like leaves in a hurricane. I'm drowning in anxiety, my heart racing, every breath a struggle. #stress #mentalhealth""",Normal,0,0.09625169
+Stress,"""Feeling like a rubber band stretched too thin, snapping back at the slightest provocation. #Stress #MentalHealthAwareness""",Normal,0,0.05176365
+Stress,"""Feeling overwhelmed by a storm of thoughts. Can't shake the tension. Stress has taken control. #MentalHealthAwareness""",Anxiety,0,0.20354082
+Stress,"""My mind is a chaotic whirlwind. I feel like I'm constantly drowning in an ocean of stress.""",Normal,0,0.0029819997
+Stress,"""Feeling overwhelmed by the weight of responsibilities. Stress is consuming my thoughts and energy, leaving me drained and anxious."" #stress #mentalhealth",Anxiety,0,0.15071577
+Stress,"""Feeling like a balloon, ready to pop with every little thing. #stress #mentalhealthawareness""",Normal,0,0.074411206
+Stress,"""Feeling overwhelmed, anxious, and out of control. The weight of the world on my shoulders. Can't shake this stress.""",Normal,0,0.08893931
+Stress,"""Feeling overwhelmed and on edge. Every breath is a struggle to calm my mind and body. Stress has taken control.""",Normal,0,0.028309051
+Stress,"""My mind is a whirlwind of thoughts and worries, each more overwhelming than the last. The weight of the world feels too heavy to bear. #stress #mentalhealth""",Normal,0,0.031203395
+Stress,"""Feeling overwhelmed by the weight of the world on my shoulders. Can't shake this stress. #mentalhealthawareness #stressmanagement""",Depression,0,0.104570255
+Stress,"""Feeling like a ticking time bomb, each tick adding more weight to my shoulders. Can't shake this feeling of suffocation.""",Normal,0,0.04115857
+Stress,"""Feeling like a rubber duck being squeezed, each second adding more weight to my already heavy heart. #Stress #MentalHealthAwareness""",Suicidal,0,0.13834344
+Stress,"""Overwhelmed by a storm of thoughts, my mind is a jumbled mess, I can barely breathe, stress has taken over.""",Normal,0,0.020853
+Stress,"Feeling like a ball of fire, thoughts racing, hands shaking. Stress has taken over my mind and body. #MentalHealthAwareness #StressTips",Suicidal,0,0.18711028
+Stress,"""Feeling overwhelmed by a storm of thoughts and emotions, stress has taken control. Can't find peace within the chaos.""",Normal,0,0.0011683648
+Stress,"""Feeling like a weight is crushing my chest. Anxiety consumes me as I struggle to breathe. My thoughts are scattered like leaves in the wind. I'm drowning in a sea of chaos. #Stress #M",Suicidal,0,0.020240646
+Stress,"Feeling overwhelmed, anxious, and irritable. Can't focus or think straight. Stress has taken control. #mentalhealthawareness",Suicidal,0,0.028363412
+Stress,"Feeling like a ticking time bomb, every moment is a struggle to keep calm. Stress is taking its toll. #mentalhealthawareness #stress #anxiety",Suicidal,0,0.21728584
+Stress,"""Mind racing, heart pounding, hands shaking. Every breath feels like a chore. Stress has taken over.""",Normal,0,0.023976402
+Stress,"""Feeling like a rubber duck on a hot stove. Bouncing but can't escape the heat.""",Normal,0,0.0020321154
+Stress,"""My mind is a chaotic whirlpool, swirling with anxiety and tension. Each breath is a battle, each thought a war. I'm drowning in stress.""",Normal,0,0.052561585
+Stress,"""Overwhelmed by a tidal wave of anxiety and worry. My mind is racing, and I can't find a moment's peace.""",Normal,0,0.011288592
+Stress,"""My mind is a chaotic whirlwind, thoughts jumbled and racing, consumed by the weight of the world. Stress has me in its icy grip.""",Normal,0,0.005083917
+Stress,"Feeling overwhelmed by a storm of thoughts. Stress is like a heavy blanket suffocating my mind, weighing me down with every passing moment.",Anxiety,0,0.037295748
+Stress,"""Feeling like a ticking time bomb, every second a struggle to keep my head above water. Stress has taken over my life.""",Normal,0,0.016280686
+Stress,"""Feeling overwhelmed by the weight of the world on my shoulders. Each breath feels like a struggle, and my mind races with worry. #Stress #MentalHealthAwareness""",Suicidal,0,0.13946748
+Stress,"""Feeling overwhelmed, my thoughts are racing, I'm constantly on edge. Stress is taking a toll on me, and I don't know how to cope."" #mentalhealthawareness #stress #selfcare",Stress,1,0.5626322
+Stress,"""I'm a ball of tension, constantly on edge, my mind a whirlwind of worries and fears. Stress has me trapped in a vicious cycle that I can't break.""",Normal,0,0.1253784
+Stress,"""Beneath the surface, I'm a ticking time bomb. Every breath feels like a struggle. My mind is a whirlwind of thoughts, each one more overwhelming than the last. I can't escape this feeling of",Normal,0,0.053394515
+Stress,"""Beneath the surface of calm, a storm brews. Anxiety, tension, and worry threaten to consume me. I feel like I'm drowning in a sea of stress.""",Normal,0,0.052957483
+Stress,"""Feeling overwhelmed by a mountain of tasks and responsibilities. My mind is racing, my heart is pounding, and my anxiety is rising. #Stress #MentalHealthAwareness""",Anxiety,0,0.15918195
+Stress,"""Feeling overwhelmed by a storm of thoughts and emotions. Can't breathe, can't think straight. Stress has taken control.""",Normal,0,0.052884106
+Stress,"""Burdened by an unrelenting weight of worry, my mind is a chaotic whirlwind. Every breath feels like a struggle, every thought a chore. I'm drowning in a sea of stress.""",Normal,0,0.14115198
+Stress,"""I'm drowning in a sea of thoughts, each more overwhelming than the last. The weight of the world on my shoulders, I can barely breathe.""",Normal,0,0.01980729
+Stress,"""Feeling like a ticking time bomb, every heartbeat a countdown to an explosion of anxiety. #Stress #MentalHealth""",Normal,0,0.035875976
+Stress,"""Feeling like a balloon about to pop, overwhelmed by the weight of the world on my shoulders.""",Normal,0,0.0031792915
+Stress,"""Overwhelmed by a storm of stress, my mind is a chaotic sea of worries and fears. I'm drowning in the noise of my own thoughts. #stress #mentalhealth""",Normal,0,0.10562837
+Stress,"""Heart racing, mind buzzing, hands shaking. Stress has taken over. Can't breathe. Need to escape. Help!""",Normal,0,0.01956912
+Stress,"""Feeling like a ticking time bomb, every second is a battle. My mind is racing, thoughts are scattered, and anxiety is suffocating. Stress has taken over.""",Normal,0,0.19276512
+Stress,"""Overwhelmed by stress, every decision feels like a mountain to climb. Can't escape the feeling of being trapped in a never-ending cycle."" #mentalhealthawareness",Normal,0,0.057737455
+Stress,"""Feeling overwhelmed by the chaos. Can't catch a breath. My mind is racing. Stress has taken control. #mentalhealthawareness #stressmanagement""",Normal,0,0.087867536
+Stress,"""Feeling like a pinball, bouncing off walls, my thoughts scattered as chaotic as my schedule. Stress has taken over."" #StressAwareness #MentalHealthMatters",Suicidal,0,0.23144892
+Stress,"""Feeling overwhelmed by the weight of expectations and responsibilities. Can't catch a break from the constant pressure to perform. #Stress #MentalHealthAwareness""",Normal,0,0.022249736
+Stress,"""Overwhelmed by a wave of anxiety and worry, my mind is racing as my body clings to every breath. Stress has taken over.""",Normal,0,0.07465827
+Stress,Feeling overwhelmed by the weight of responsibilities and expectations. Can't shake this sense of dread and anxiety. Need some peace and quiet to regroup. #stress #mentalhealthawareness,Depression,0,0.03627544
+Stress,"""Feeling like a rubber band, stretched too thin and snapping back at the slightest provocation. Stress has taken over.""",Normal,0,0.004097796
+Stress,"""Feeling overwhelmed by the weight of expectations and responsibilities. Can't catch a break. #stress #mentalhealthawareness""",Normal,0,0.021883737
+Stress,"""Feeling overwhelmed by a barrage of responsibilities, my mind is a chaotic whirlwind of worry and anxiety.""",Normal,0,0.005274875
+Stress,"""Heavy heart and racing thoughts. Tears threaten to spill at any moment. Stress has taken over. #mentalhealthawareness""",Suicidal,0,0.12634012
+Stress,"""Overwhelmed by anxiety, my mind is racing and my body is tense. I feel like I'm drowning in a sea of stress."" #Stress #MentalHealthAwareness",Normal,0,0.17882016
+Stress,"""Feeling like a ticking time bomb, every second brings a new wave of anxiety and panic. Can't shake this stress, it's consuming me."" #Stress #MentalHealthAwareness",Normal,0,0.09999554
+Stress,"""Feeling overwhelmed by the chaos around me. Can't shake this sense of dread. My mind is racing and my body is tense. #Stress #MentalHealthAwareness""",Normal,0,0.04918661
+Stress,"""Breathing heavily, mind racing, heart pounding - I'm drowning in a sea of stress, struggling to keep my head above water."" #Stress #MentalHealthAwareness",Normal,0,0.17527711
+Stress,"""Burdened by an unending weight of worry and doubt, every moment feels like a struggle to breathe. Stress has me in its grip, relentless and unyielding.""",Normal,0,0.009806448
+Stress,"""Feeling like my brain is a foggy mess, overwhelmed by stress. Can't focus, can't breathe. Help!""",Normal,0,0.02605563
+Stress,"""Burdened mind, racing thoughts, suffocating anxiety. Stress is a heavy weight, crushing every ounce of joy and peace. #Stress #MentalHealthAwareness""",Anxiety,0,0.15299676
+Stress,"""Feeling overwhelmed by the chaos of life. Every breath feels heavy, every step exhausting. The weight of stress is suffocating."" #Stress #MentalHealth",Anxiety,0,0.062237907
+Stress,"""Feeling overwhelmed by stress. The weight of the world is on my shoulders and I can't seem to shake it off. #Stress #Anxiety #MentalHealth""",Normal,0,0.057713244
+Stress,"""Feeling overwhelmed by a storm of worries and responsibilities. My mind is racing, my heart is pounding, and I can't breathe. #stress #anxiety #mentalhealth""",Normal,0,0.034239136
+Stress,"Feeling overwhelmed, my mind is racing, tension builds with each passing second, I need a break from this stress. #Stress #MentalHealth",Suicidal,0,0.072634816
+Stress,"""Feeling like a balloon about to pop, each breath feels like a heavy weight, stress has me drowning.""",Normal,0,0.0011853825
+Stress,"Feeling like a ticking time bomb, every second feels like an eternity. #stress #mentalhealthawareness",Normal,0,0.01812328
+Stress,"""Feeling overwhelmed by the weight of the world on my shoulders. Can't shake this stress, it's suffocating me.""",Normal,0,0.3057195
+Stress,Feeling overwhelmed by the weight of the world on my shoulders. Can't shake this anxiety and tension. #Stress #MentalHealth,Suicidal,0,0.034325324
+Stress,"""Feeling overwhelmed and anxious, my mind is racing, and I can't seem to catch a break. #Stress #MentalHealth""",Normal,0,0.03713801
+Stress,"""My brain feels like a jumbled mess, thoughts racing, anxiety bubbling, I can't catch a breath. Stress is suffocating."" #Stress #MentalHealthAwareness",Normal,0,0.12156313
+Stress,"""My mind is a chaotic whirlpool of worry and fear, drowning in a sea of unpredictable thoughts. I'm caught in a never-ending cycle of stress and anxiety, struggling to stay afloat.""",Normal,0,0.041027073
+Stress,"""Overwhelmed by stress, my mind is a chaotic whirlwind, emotions on rollercoaster, struggling to find balance amidst turmoil. #stress #mentalhealthawareness""",Normal,0,0.04323254
+Stress,"Feeling overwhelmed, like my mind is a tangled web, caught in a storm of chaos and fear. Can't escape the grip of stress. #mentalhealthawareness #stress #anxiety",Normal,0,0.10302881
+Stress,"""Feeling like a weight is constantly on my shoulders, every thought and action amplified by a suffocating sense of dread.""",Normal,0,0.01200239
+Stress,"""Feeling like a ball of tension, each passing moment amplifies the weight of the world. #Stress #MentalHealthAwareness""",Suicidal,0,0.20169234
+Stress,"""Anxiety clings to me like a shadow, casting darkness over every moment, leaving me feeling suffocated and overwhelmed.""",Normal,0,0.017517958
+Stress,"""Feeling overwhelmed by life's burdens. Mind racing, heart pounding. Stress has taken control. Help!""",Normal,0,0.0068645305
+Stress,"""Feeling overwhelmed by stress. Can't shake this sense of anxiety and tension. Need a break, but the world keeps spinning."" #Stress #MentalHealthAwareness",Normal,0,0.061414745
+Stress,"""Feeling overwhelmed by a mountain of tasks, my mind is spinning like a hamster on a wheel, and my anxiety is on high alert. #Stress #MentalHealth #EmotionalStruggle""",Normal,0,0.013664878
+Stress,"Feeling overwhelmed, my mind is racing, I'm constantly on edge. This stress is taking a toll on my mental and emotional well-being. #Stress #MentalHealthAwareness",Normal,0,0.054890227
+Stress,"Feeling overwhelmed by stress, like a heavy weight pressing down on my chest. Can't breathe, can't focus. Just want it to stop. #Stress #MentalHealth",Suicidal,0,0.10893734
+Stress,"""My mind is racing, heart pounding, breaths shallow. I feel like I'm drowning in a sea of chaos and anxiety."" #Stress #MentalHealthAwareness",Suicidal,0,0.24544327
+Stress,"""Feeling like a tightly wound spring, ready to snap at any moment. Stress has taken control and I'm struggling to find balance.""",Normal,0,0.025667345
+Stress,"""My mind is a chaotic storm, thoughts racing like lightning, emotions zipping in unpredictable directions, each second a new battle. Stress has taken over."" #Stress #MentalHealthAwareness",Stress,1,0.3418611
+Stress,"""Heavy heart, racing thoughts. The world is spinning, I can't keep up. #Stress #Anxiety #MentalHealth""",Normal,0,0.0635617
+Stress,"""Feeling overwhelmed and anxious. My mind is racing, my heart is pounding. I can't shake this stress.""",Normal,0,0.17660713
+Stress,"""Feeling overwhelmed by a mountain of tasks. My mind is racing and my heart is pounding. I need to escape before I lose it.""",Normal,0,0.015172236
+Stress,"""Overwhelmed by stress, my mind feels like a chaotic storm. Each passing moment amplifies the anxiety. Can't find peace.""",Normal,0,0.0010847438
+Stress,"""Feeling like a pinball, bouncing off walls and crashing. Stress has me in its grip, won't let go. #stress #mentalhealthawareness""",Normal,0,0.020188345
+Stress,"""Burdened by a thousand worries, my mind feels like it's drowning in chaos. The weight of stress is too much to bear.""",Normal,0,0.0033002673
+Stress,"""Feeling overwhelmed by stress. Every task feels like a mountain to climb. Can't escape the anxiety and tension. #Stress #Anxiety #MentalHealth""",Normal,0,0.014277697
+Stress,"""Overwhelmed by a tidal wave of stress. My mind is a chaotic sea of thoughts, each more frightening than the last. I feel like I'm drowning in anxiety.""",Normal,0,0.017109519
+Stress,"""Feeling overwhelmed by the chaos of daily life. Stress is taking control and I'm struggling to keep up. #MentalHealthAwareness #StressManagement""",Normal,0,0.09196754
+Stress,"""My brain feels like it's being torn apart by a thousand voices screaming at once. #Stress #MentalHealthAwareness""",Normal,0,0.04415349
+Suicidal,"""Shadows loom, hope fades, thoughts turn dark, heart aches, tears fall silently, pain consumes, breath catches, life feels like a burden, all I want is to escape.""",Suicidal,1,0.59443325
+Suicidal,"""I can't take this anymore. The pain is unbearable. I just want to disappear, to be gone forever. Suicide seems like the only way out.""",Normal,0,0.11610978
+Suicidal,"""I'm drowning in this endless darkness, my thoughts are a storm, I can't see the light anymore. Suicide seems like the only way out.""",Normal,0,0.20694195
+Suicidal,"""Darkness consumes me, despair grips my heart, I'm drowning in a sea of sorrow, every breath feels like a chore, but hope lingers in the shadows, guiding me towards the light.""",Suicidal,1,0.3826157
+Suicidal,"""Darkness shrouds my thoughts, a suffocating weight pressing down, the only hope seems to be the sweet release of escape. #Suicidal""",Suicidal,1,0.3885748
+Suicidal,"""Darkness consumes, hope fades. The weight of life is unbearable. My heart is heavy. I just want it all to end. #Suicidal""",Suicidal,1,0.6220633
+Suicidal,"""Feeling like a burden to the world, every breath feels like a chore, pain consumes me, I can't see the point anymore, I just want to fade away. #Suicide #MentalHealth""",Suicidal,1,0.58017397
+Suicidal,"""Darkness consumes me, hope fades away, I'm trapped in a never-ending cycle of despair. Each day is a struggle, every breath a chore. I want it all to end. #Suicide #M",Suicidal,1,0.5443643
+Suicidal,"""I'm lost in a dark abyss, drowning in despair. The pain is unbearable. I just want it all to end. #Suicidal #MentalHealthAwareness""",Suicidal,1,0.50684434
+Suicidal,"""The darkness consumes me, I can't see a way out. Every breath feels like a chore. I wish it was over. #suicide #mentalhealthawareness""",Suicidal,1,0.66397226
+Suicidal,"""Every breath feels like a chore, the pain unbearable. I can't see the light at the end of this tunnel. Suicide seems like the only escape.""",Normal,0,0.10280051
+Suicidal,"""Blackness shrouds my soul, each breath a chore, the weight of life a burden I can't bear. I just want it all to end. #Suicide #MentalHealthAwareness""",Suicidal,1,0.6282783
+Suicidal,"""I can't see a future beyond this pain. The thought of another day is too much to bear. I feel like I'm drowning in a sea of hopelessness.""",Normal,0,0.09213048
+Suicidal,"""I can't take it anymore, I feel like I'm drowning in my own thoughts, the pain is too much to bear, I just want it to stop.""",Depression,0,0.10309659
+Suicidal,"""Shadows loom over my soul, darkness consumes me, I can't bear to face another day. My mind is a twisted mess, and the pain is unbearable. I want it all to end. I just want",Suicidal,1,0.5805343
+Suicidal,"""Darkness consumes me, every breath is a struggle, pain and emptiness fill my soul, I can't bear the weight anymore, I just want it to end. #Suicide #MentalHealthAwareness""",Suicidal,1,0.5282059
+Suicidal,"""I feel like a broken record, but I can't stop wanting to end it all. The pain never goes away, and I can't see a way out.""",Normal,0,0.08317906
+Suicidal,"I feel like I'm suffocating in this darkness. Every breath feels like a chore, and the thought of going on is too much to bear. I just want it to stop.",Depression,0,0.1086789
+Suicidal,"""The weight of the world feels unbearable. Every moment is a struggle. I can't see a way out. The pain is too much. I just want it to stop.""",Normal,0,0.038872175
+Suicidal,"""My mind is a dark abyss, filled with thoughts of ending it all. Every breath feels like a struggle, and hope seems an unreachable dream. Suicidal. #mentalhealthawareness""",Suicidal,1,0.5835167
+Suicidal,"""Every breath feels like a chore, every thought like a dagger. The pain consumes me, I can't see a way out. All I want is to escape.""",Normal,0,0.103162475
+Suicidal,"""Dark clouds loom, suffocating despair overwhelms, life feels like a never-ending battle, hope seems out of reach. Just another day in the life of a suicidal mind.""",Normal,0,0.2620099
+Suicidal,"""I feel like I'm drowning in darkness, with no hope of ever finding light again. The pain is unbearable, and I can't see a way out. I want it to end, but I don't",Normal,0,0.04076706
+Suicidal,"""I can't escape the overwhelming darkness that threatens to consume me. I feel like I'm drowning in a sea of despair and can't find the strength to keep going.""",Normal,0,0.034399685
+Suicidal,"""Feeling like I'm drowning, suffocated by my thoughts. The weight of life is too much. I just want it all to stop. I'm so tired of fighting. I can't take it anymore.""",Normal,0,0.043735884
+Suicidal,"""I feel like I'm drowning in darkness, my thoughts are suffocating, and the pain is unbearable. I just want it to stop. #Suicide #MentalHealthAwareness""",Suicidal,1,0.5799164
+Suicidal,I'm drowning in a sea of hopelessness. The weight of the world is too much to bear. I just want it all to end.,Depression,0,0.3146558
+Suicidal,"""Dark thoughts consume me, each breath feels like a chore, I'm drowning in despair, the pain feels unbearable, I just want it all to end. #suicidal""",Suicidal,1,0.72789145
+Suicidal,"""Blackness engulfs me, hope is a distant memory, pain consumes every thought. Suicidal. #mentalhealthawareness""",Suicidal,1,0.61694825
+Suicidal,"""Darkness consumes me, every breath feels like a chore, hope is but a fleeting memory. I can't escape the pain, the thoughts of ending it all seem too real. #suicidal""",Suicidal,1,0.77040285
+Suicidal,"""Darkness consumes me, every breath feels like a burden, hope seems out of reach. All I want is the pain to end. #Suicidal #MentalHealth""",Suicidal,1,0.57615036
+Suicidal,"""The emptiness inside is too much to bear. I feel like I'm suffocating in my own despair. The thought of ending it all seems like the only way out."" #Suicidal #MentalHealthAwareness",Suicidal,1,0.63895077
+Suicidal,"""Darkness consumes me, despair fills my soul. I can't bear the weight of my thoughts. Life feels like a constant struggle. I want it to end. #suicidal""",Suicidal,1,0.5096616
+Suicidal,"""Darkness consumes me, despair takes hold. Every breath is a struggle, every thought a burden. I can't see the light at the end of this tunnel. But I'll keep fighting. #SuicideAwareness",Suicidal,1,0.5846982
+Suicidal,"""Darkness consumes me, despair grips my heart, every breath feels like a chore, and the thought of living another day is a cruel jest. I just want it to end.""",Normal,0,0.21833578
+Suicidal,"""I feel like the world is just too much to bear, and I don't know if I can keep going. Sometimes I wish I could just escape it all.""",Normal,0,0.04151647
+Suicidal,"""The darkness is closing in, and I can't see a way out. My thoughts are consumed by despair and the pain is unbearable. I feel like ending it all. #suicidal #mentalhealth #depression",Suicidal,1,0.72928923
+Suicidal,"""I'm drowning in this darkness, my thoughts are relentless and I can't see the light at the end. This pain is too much to bear. #suicide #mentalhealthawareness""",Suicidal,1,0.58602846
+Suicidal,"""The darkness consumes me. The pain is too much. I want to escape. I want to be free. I just want to disappear.""",Normal,0,0.17634408
+Suicidal,"""The weight of despair is too much to bear. I can't see the light at the end of the tunnel. The darkness consumes me. I wish it would all just end. #suicidal #mentalhealthaware",Suicidal,1,0.8879577
+Suicidal,"""I'm drowning in darkness, every breath feels like a struggle. My mind is consumed by thoughts of ending it all. Can't bear the pain anymore.",Normal,0,0.14349797
+Suicidal,"""Darkness envelops, hope seems distant, every breath a struggle. The pain is unbearable, the thought of leaving it all behind... just a little too much.""",Normal,0,0.10443198
+Suicidal,"""Blackness engulfs me, suffocating all hope. My thoughts are a whirlpool of despair, drowning in the darkness. The pain is unbearable, and I'm lost in the shadows of my own mind",Normal,0,0.36412203
+Suicidal,"""Crushing despair, an overwhelming weight on my chest, every breath feels like a chore. I just want it all to stop. #suicidal""",Suicidal,1,0.5173805
+Suicidal,"""Darkness envelops me, thoughts of escape seem impossible. The pain consumes me, I just want it to end. #suicide #mentalhealthawareness""",Suicidal,1,0.6393329
+Suicidal,"""Darkness consumes me, my thoughts a twisted maze of despair. The weight of this pain is too much to bear. I long to escape, to find a way out of this endless torment. But for now, I am",Normal,0,0.23103854
+Suicidal,"""Darkness surrounds me, my thoughts are a storm, and I'm drowning. I can't escape the pain, and it feels like there's no hope left. I just want to be free from it all.",Normal,0,0.3145785
+Suicidal,"""I can't take this anymore, the pain is too much to bear, I just want to escape, to leave it all behind, to end it now.""",Normal,0,0.17513162
+Suicidal,"""Shadows of despair engulf me, each breath a struggle, thoughts of escape consume me, but hope remains elusive."" #Suicidal #MentalHealthAwareness",Suicidal,1,0.91827303
+Suicidal,"""Every breath feels like a chore. My mind is a dark, twisted labyrinth that's impossible to escape. The pain is unbearable. All I want is to be free.""",Normal,0,0.1401726
+Suicidal,"""Shadows of hopelessness swallow me whole, as I cling to the thin thread of life, desperately fighting to stay afloat in the dark abyss of my own thoughts. #Suicidal #MentalHealthAware",Suicidal,1,0.85550255
+Suicidal,"""I can't see the point in anything anymore. The pain is too much to bear. I just want it all to end. #Suicide #MentalHealthAwareness""",Suicidal,1,0.81057537
+Suicidal,"I'm lost in a dark place where my thoughts are my only company. Each one is a dagger, sharpening my desire to escape this pain. But the world outside seems so far away.",Normal,0,0.093160816
+Suicidal,"I'm drowning in a sea of hopelessness, my heart heavy with despair. Every breath feels like a chore, each moment a burden. I just want it all to end.",Depression,0,0.33610615
+Suicidal,"""I can't see the light anymore. Every breath feels like a chore. I want to escape this pain, but I'm trapped in my own mind."" #Suicidal #MentalHealth #MentalIllness",Suicidal,1,0.5803959
+Suicidal,"""Darkness consumes me, hope seems distant, pain overwhelms. I feel like giving up. #Suicidal #MentalHealthAwareness""",Suicidal,1,0.49083638
+Suicidal,"""I'm lost in a dark abyss, my thoughts consumed by the thought of never existing again. Suicide seems like the only way out."" #Suicide #MentalHealth",Suicidal,1,0.72005844
+Suicidal,"""I'm drowning in a sea of hopelessness, where every breath feels like a chore. The darkness consumes me, and I can't find the strength to carry on.""",Normal,0,0.054590814
+Suicidal,"""The darkness consumes me, and I can't escape its suffocating grip. Every breath is a struggle, and the thought of ending it all seems like the only way out."" #SuicideAwareness #MentalHealth",Suicidal,1,0.82854533
+Suicidal,"""My mind is a battlefield, thoughts of death are winning, I can't see a way out of this pain.",Stress,0,0.21932475
+Suicidal,"""Feeling like the weight of the world is on my shoulders. Can't see a way out. Just want to escape the pain. #Suicidal""",Normal,0,0.26876917
+Suicidal,"""Every breath feels like a chore, the weight of the world on my shoulders. I just want to escape, to find peace in the darkness.""",Normal,0,0.029238978
+Suicidal,"""My mind is a war zone, every thought a weapon, every breath a struggle. I want to disappear, to leave it all behind. But I'm clinging on, fighting for a reason, even when it feels like there isn'",Normal,0,0.20442316
+Suicidal,"""Every breath feels like a chore. The pain consumes me, and I can't see a way out. I'm lost in a dark abyss, drowning in my own thoughts. Suicide seems like the only",Normal,0,0.068726934
+Suicidal,"""Every breath feels like a chore, every thought is a battle, every second is a struggle. The pain is relentless, the darkness consuming. But somehow, I find the strength to carry on. Each day is a victory",Normal,0,0.16988169
+Suicidal,"""I can't see the light at the end of the tunnel. My mind is consumed by darkness and despair. I feel like I'm drowning in a never-ending abyss. I want to escape, but I don",Normal,0,0.13874009
+Suicidal,"""The darkness is too much to bear, the pain too much to endure. I can't see a way out, and I don't want to keep fighting. Just let it end."" #Suicidal #MentalHealth",Suicidal,1,0.6435848
+Suicidal,"""Darkness surrounds me, suffocating my will to live. The pain is unbearable, I can't take it anymore. I just want to escape. Suicide seems like the only way out.""",Normal,0,0.27333912
+Suicidal,"""The weight of the world feels too heavy to bear. I can't see a way out. My mind is consumed by darkness. I just want to escape. Please help.""",Normal,0,0.15819252
+Suicidal,"""Feeling trapped, helpless, and lost. The weight of my pain is too much to bear. I don't know how much longer I can keep going.""",Normal,0,0.15894863
+Suicidal,"""The emptiness inside is overwhelming. Every breath feels like a chore. The thought of leaving it all behind is tempting."" #SuicideAwareness #MentalHealthMatters",Suicidal,1,0.7586032
+Suicidal,"""The darkness consumes me, the pain never fades, I can't bear this life anymore. #suicidal #mentalhealth #depression""",Suicidal,1,0.54295105
+Suicidal,"""I feel like my life is a never-ending cycle of pain and struggle. Sometimes I wish it would just end."" #Suicidal #MentalHealth #Depression",Depression,0,0.21634948
+Suicidal,"""Heavy heart, numb mind, no hope left. Life feels like a burden, just another day of pain. The thought of ending it all seems too appealing. But I'll keep fighting, for tomorrow might be a better day",Normal,0,0.16367689
+Suicidal,"""I'm drowning in darkness, my thoughts are like a noose around my neck, and I can't see a way out. Every breath feels like a chore, and I just want to escape. I feel like giving",Normal,0,0.26691145
+Suicidal,"""The darkness inside consumes me, every thought is a dagger, I can't see the light, I'm drowning in despair, I just want it all to end.""",Normal,0,0.23376793
+Suicidal,"""The darkness consumes me, the pain never subsides, and the thought of ending it all becomes an alluring escape. Suicidal. #mentalhealthawareness""",Suicidal,1,0.5813837
+Suicidal,"""Darkness shrouds my soul, despair clings like a shadow, every breath feels like a chore, I can't see the light at the end of the tunnel, just the endless abyss. I'm d",Normal,0,0.16068347
+Suicidal,"""Darkness envelops me, despair consumes me, I see no way out, only the void beckons. The pain is unbearable, I want it to end. #suicidal #mentalhealth #des",Suicidal,1,0.93240166
+Suicidal,"""I can't bear this anymore, the pain consumes me. I feel like I'm drowning in darkness, and I'm losing hope of ever finding my way out. My thoughts are consumed by thoughts of ending it",Depression,0,0.2959131
+Suicidal,"""Darkness surrounds me, and all I see is the end. My mind is a battlefield, where despair fights for victory. I can't bear to continue living. The pain is too much. Please, someone, make it",Suicidal,1,0.74570006
+Suicidal,"I can't see the light anymore, only the darkness consuming me. Each breath feels like a chore. I don't want to be here anymore.",Depression,0,0.14647202
+Suicidal,"""Crushing weight of despair, hopelessness and worthlessness. Can't bear the thought of another day. The pain is too much to bear. Suicide seems like the only escape.""",Normal,0,0.15086427
+Suicidal,"""I can't see the light at the end of the tunnel. The pain is too much. I just want it to stop. #Suicide #MentalHealthAwareness""",Suicidal,1,0.58043116
+Suicidal,"""Darkness consumes me, the weight of my pain too much to bear. The thought of life without it all seems unbearable. I just want to fade away. #suicide #mentalhealthawareness""",Suicidal,1,0.6843423
+Suicidal,"""Every breath feels like a struggle, the pain consumes me, and I can't see a way out. All I want is to escape this darkness. #suicide #mentalhealth #despair""",Suicidal,1,0.6940599
+Suicidal,"""Darkness consumes me, despair takes hold, I can't see a way out. The pain is too much to bear, I want it all to end. Suicide seems like the only escape.""",Suicidal,1,0.47408473
+Suicidal,"I can't see the point anymore, life feels like a never-ending burden. Every breath is a struggle, every step a chore. I just want it to stop.",Depression,0,0.13526876
+Suicidal,"""Darkness consumes me, despair grips my heart. Every breath is a struggle, every moment a torture. I can't see the light at the end of the tunnel. Suicide seems the only way out. Please help me",Normal,0,0.2603389
+Suicidal,"""Feeling like the world is too much to bear. Can't find the strength to keep going. Hoping for a way out.""",Normal,0,0.069571316
+Suicidal,"""I can't bear this anymore. The weight of my pain feels too heavy to carry. Every breath feels like a chore. I just want it to stop. #suicidal""",Normal,0,0.21988001
+Suicidal,"""Every breath feels like a chore, my mind is a dark abyss, I'm drowning in despair, but I won't give up on hope."" #Suicidal #MentalHealthAwareness",Suicidal,1,0.7719599
+Suicidal,"""Darkness consumes me, every thought is a dagger, pain is unbearable, and I'm clinging to the edge. Suicidal thoughts are suffocating me, and I don't know how to escape",Normal,0,0.33497426
+Suicidal,"""Every breath feels like a burden, the weight of pain too much to bear. Thoughts of escape, of ending it all. I'm drowning in darkness, searching for a way out. #Suicide #MentalHealth""",Suicidal,1,0.6190349
+Suicidal,"""I feel like I'm drowning in darkness, suffocating under the weight of my own despair. The pain seems too much to bear, and I can't see a way out. I just want it to stop.""",Normal,0,0.03327463
+Suicidal,"""I feel like I'm suffocating, my mind is a dark abyss, and I can't see the way out. My heart is heavy with pain, and I can't bear the thought of living another day",Depression,0,0.2864894
+Suicidal,"""I feel like I'm drowning in my own darkness, with no way out. The pain is unbearable. I just want it to stop. #Suicidal""",Suicidal,1,0.644826
+Suicidal,"""The darkness consumes me, the pain is unbearable, and the thought of living another day is a cruel joke. I can't see the light at the end of the tunnel, only the endless void beckoning me to",Suicidal,1,0.81953496
+Suicidal,"""The darkness consumes me, the pain never fades. I'm just a shadow of my former self, drowning in my own despair. I can't see a way out. I just want it all to end. #",Suicidal,1,0.49100637
+Suicidal,I can't see the light at the end of the tunnel. My mind is consumed by darkness and despair. Every breath feels like a struggle. I want to give up.,Suicidal,1,0.4545879
