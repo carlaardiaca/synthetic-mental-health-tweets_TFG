@@ -1,0 +1,48 @@
+{
+"Depression": [
+    "Every morning I wake up with a weight on my chest; I don’t even know why I keep trying.",
+    "I feel like a complete failure—every effort seems pointless and the future looks empty.",
+    "Haven’t slept properly in weeks; the loneliness screams louder than any outside voice.",
+    "I miss the version of me that enjoyed simple things; now there’s only exhaustion and guilt.",
+    "I know I should ask for help, but something inside whispers that nothing will work."
+    ],
+
+    "Bi-polar": [
+    "Forty hours wired, hallucinating shadows in every mirror—then a week later I’m frozen in bed, scared to breathe, sure nothing is real.",
+    "Mania says buy a car, start five businesses, tweet 600 times; depression says skip meals, quit work, disappear under the blankets.",
+    "Doctor swaps meds again; I’m ping-ponging between genius and wreckage, singing to customers one day, plotting my escape the next.",
+    "Yesterday I started a business at 3 AM, today I can’t get out of bed because everything feels pointless.",
+    "I felt invincible at noon, then by midnight I’m in tears because my thoughts won’t stop racing."
+    ],
+    "Suicidal": [
+        "If I vanished tonight, would anyone notice? The thought feels like relief, not fear.",
+        "I’m so tired of fighting my own head; the exit door looks easier every day.",
+        "I write goodbye notes in my drafts folder, then wake up shocked I’m still here."
+    ],
+
+    "Anxiety": [
+        "Heart’s racing at 120 bpm, Google says “fine” but my brain screams TERMINAL.",
+        "Every ding on my phone feels like a crisis; stomach in knots before I even look.",
+        "Breathing through a meeting while my mind yells FIRE! over a single email typo."
+    ],
+
+ "Normal": [
+    "Morning coffee with Zach and James—one honors ace, one class clown, me laughing at both ends of the spectrum.",
+    "Helped Mom file Dental Lifeline forms; paperwork’s dull but that checkmark feels like a small win together.",
+    "Afternoon walk in the sunshine—no agenda, just birdsong and a clear mind."
+ ],
+
+    "Stress": [
+        "Inbox exploding, phone buzzing—deadline in two hours and my pulse is already sprinting.",
+        "2 a.m. loop: grades, piano, soccer, repeat; wish I could find the pause button on my brain.",
+        "Creeping traffic, chest tight; one more escalation call and I might scream in the car."
+    ],
+    "Personality Disorder": [
+    "We’re soul-mates at breakfast, sworn enemies by dinner—my feelings never sit still.",
+    "Texted 27 times, blocked him, missed him, un-blocked—heart racing 100 mph, changing lanes.",
+    "I beg to be left alone, then panic at the silence; love feels like controlled demolition.",
+    "I tell people I’m fine but inside I’m torn between craving closeness and pushing everyone away.",
+    "I swapped between adoring him at breakfast and ignoring him at lunch—my heart can’t make up its mind."
+    ]
+
+}
