@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+      Normal       0.94      0.92      0.93      1270
+  Depression       0.88      0.84      0.86      1270
+    Suicidal       0.89      0.88      0.88      1271
+     Anxiety       0.98      0.99      0.98      1271
+     Bipolar       0.97      1.00      0.98      1271
+      Stress       0.96      1.00      0.98      1271
+
+    accuracy                           0.94      7624
+   macro avg       0.94      0.94      0.94      7624
+weighted avg       0.94      0.94      0.94      7624
